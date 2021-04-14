@@ -26,7 +26,7 @@ json2yaml ./Posts.json > ./posts.yml
 
 ## Split YAML into multiple files
 
-run yaml-to-many.sh
+run yaml-to-many.sh.
 
 ```
 chmod u+x post/_build/yaml-to-many.sh
