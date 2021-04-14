@@ -2,6 +2,7 @@
 ## Downloading Posts
 
 _This has far too many steps, and uses too many tools right now. Will come back and simply this at some point._
+TODO: See if most if not all of this could be done with [CSPLIT](https://www.ibm.com/docs/en/aix/7.1?topic=c-csplit-command)
 
 Go to the [Airtable API](https://airtable.com/api) and get your Base ID & API Key.
 
