@@ -1,0 +1,24 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "A general data repository for other projects and archival purposes.",
+  "main": "README.md",
+  "dependencies": {
+    "json-to-pretty-yaml": "^1.2.2",
+    "showdown": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamnbutler/data.git"
+  },
+  "author": "Nate Butler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamnbutler/data/issues"
+  },
+  "homepage": "https://github.com/iamnbutler/data#readme"
+}
