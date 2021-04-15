@@ -1,4 +1,9 @@
 # Storing an Airtable database as a series of Markdown files with frontmatter
+
+```
+everything here is out of date. will update later.
+```
+
 ## Downloading Posts
 
 _This has far too many steps, and uses too many tools right now. Will come back and simply this at some point._
