@@ -36,21 +36,31 @@ base('Posts').select({
     let slug = slugify_string(record, title, date);
 
     let data = {
-      title: record.get('title'),
+      title: title,
       slug: slug,
-      domain: 'stackabuse.com',
-      port: 443,
-      'is-https': true,
-      meta: {
-          'published-at': 'Nov. 1st, 2019',
-          author: {
-              name: 'Scott Robinson',
-              contact: 'scott@stackabuse.com'
-          },
-          tags: [
-              'javascript', 'node.js', 'web development'
-          ]
-      }
+      'custom_slug': '',
+      status: '',
+      date: date,
+      'date_updated': '',
+      author: '',
+      subtitle: '',
+      'primary_tag': '',
+      tags: [
+        'javascript', 'node.js', 'web development'
+      ],
+      summary: '',
+      edit: '', // TODO: Move to markdown output
+      body: '', // TODO: Move to markdown output
+      featured: false,
+      'show_thumbnail': true,
+      thumbnail: '',
+      'prefer_wide_thumbnail': false,
+      wide_thumbnail: '',
+      hero_image: '',
+      post_images: [
+        'a','b','c'
+      ],
+      'post_visible': true
     };
     
     // Logs // TODO: Remove
