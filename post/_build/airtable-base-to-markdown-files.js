@@ -17,7 +17,7 @@ const base = new Airtable({
 }).base(process.env.BASE);
 
 base('Posts').select({
-  maxRecords: 4, // Max records to call
+  maxRecords: 10, // Max records to call
   view: "Post Grid",
   // filterByFormula: "NOT({title} = '')" // Use this to filter out records that are not published
   sort: [{
