@@ -36,3 +36,14 @@ bash post/_build/yaml-to-many.sh
 ```
 
 Right now this makes a list like output_xxx-yyy.yaml. Next up, getting names from the table + converting to .md
+
+# Notes
+What needs to be done:
+
+- Grab data from Airtable base (JSON)
+- Add markers for beginning/end of each post
+- Both (order doesn't matter):
+    - convert JSON to YML
+    - split large file into individual files
+- Split YML into frontmatter and post content
+- Name files based on slug + date
