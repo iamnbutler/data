@@ -6,20 +6,26 @@
 //   ✓ create a slug from slugifying the title + date
 //   ✓ organize fields into frontmatter and content
 //   ✓ save each record as a md or yaml file
+
 const dotenv = require("dotenv").config();
 const yaml = require('js-yaml');
 const slugify = require('slugify');
 // const markdown = require("markdown-it");
 const fs = require('fs');
+
+// Require airtable & set up a connection
+// Add your airtable API info into a .env file (Read more: https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)
 const Airtable = require('airtable');
 const base = new Airtable({
   apiKey: process.env.KEY
 }).base(process.env.BASE);
 
+// const status = ["Published", "Archive"]; // Add your status tags you want to publish here (i.e "posted", "archived".) This requires a field called "status" that returns an array of tags.
+
 base('Posts').select({
   maxRecords: 10, // Max records to call
   view: "Post Grid",
-  // filterByFormula: "NOT({title} = '')" // Use this to filter out records that are not published
+  // filterByFormula: "NOT({title} = '')" // Use this and status to filter out records that are not published
   sort: [{
     field: "date",
     direction: "desc"
@@ -58,11 +64,11 @@ base('Posts').select({
       wide_thumbnail: '',
       hero_image: '',
       post_images: [
-        'a','b','c'
+        'a', 'b', 'c'
       ],
       'post_visible': true
     };
-    
+
     // Logs // TODO: Remove
     console.log('Record: ', record.get('title'));
     console.log('Date: ', record.get('date'));
@@ -100,7 +106,7 @@ function slugify_string(record, title, date) {
 // Export record to a markdown file
 // TODO: File name should be slugified
 function export_md(record, slug, data) {
-  let markdownOutput = 
+  let markdownOutput =
     '# Hello World!\n' +
     slug;
 
@@ -108,10 +114,10 @@ function export_md(record, slug, data) {
 
   // Format our YFM (YAML Front Matter) + Markdown for output. 
   fs.writeFileSync(
-    './post/' + slug + '.md', 
-    '---\n'
-    + yamlStr +
+    './post/' + slug + '.md',
     '---\n' +
-    markdownOutput, 
+    yamlStr +
+    '---\n' +
+    markdownOutput,
     'utf8');
 }
