@@ -28,4 +28,4 @@ A general data repository for other projects and archival purposes.
 
 `/post` How To:
 
-Want top play around with the [airtable to md script](post/_build/airtable-base-to-markdown-files.js)? Set up your base ID/API Key in a .env file and customize the script. It is pretty hardcoded for my usecase currently but I have plans to clean it up to be a bit more project agnostic.
+Want to play around with the [airtable to md script](post/_build/airtable-base-to-markdown-files.js)? Set up your base ID/API Key in a .env file and customize the script. It is pretty hardcoded for my usecase currently but I have plans to clean it up to be a bit more project agnostic.
