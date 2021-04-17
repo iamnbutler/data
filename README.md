@@ -14,3 +14,5 @@
 ```
 
 A general data repository for other projects and archival purposes.
+
+`/post/` – All my posts pulled from an airtable base and converted to JSON/MD files.
