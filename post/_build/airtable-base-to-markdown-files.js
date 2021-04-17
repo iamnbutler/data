@@ -1,25 +1,30 @@
 // TODO:
-// - Set up dotenv for API keys + base ID 
+// ✓ Set up dotenv for API keys + base ID 
 // ✓ Grab data from Airtable base (JS API)
 // ✓ Itterate through each record
 //   - match the record to a list of accepted statuses (i.e. "published", "archived")
-//   - create a slug from slugifying the title + date
-//   - organize fields into frontmatter and content
-//   - save each record as a md or yaml file
+//   ✓ create a slug from slugifying the title + date
+//   ✓ organize fields into frontmatter and content
+//   ✓ save each record as a md or yaml file
+
 const dotenv = require("dotenv").config();
 const yaml = require('js-yaml');
 const slugify = require('slugify');
-const markdown = require("markdown-it");
 const fs = require('fs');
+
+// Require airtable & set up a connection
+// Add your airtable API info into a .env file (Read more: https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)
 const Airtable = require('airtable');
 const base = new Airtable({
   apiKey: process.env.KEY
 }).base(process.env.BASE);
 
+// const status = ["Published", "Archive"]; // Add your status tags you want to publish here (i.e "posted", "archived".) This requires a field called "status" that returns an array of tags.
+
 base('Posts').select({
-  maxRecords: 10, // Max records to call
+  maxRecords: 999, // Max records to call
   view: "Post Grid",
-  // filterByFormula: "NOT({title} = '')" // Use this to filter out records that are not published
+  // filterByFormula: "NOT({title} = '')" // Use this and status to filter out records that are not published
   sort: [{
     field: "date",
     direction: "desc"
@@ -31,45 +36,49 @@ base('Posts').select({
     // Define variables
     const title = record.get('title');
     const date = record.get('date');
-
     // Create record slug
     let slug = slugify_string(record, title, date);
 
-    let data = {
+    const json = JSON.stringify(record, null, 4);
+
+    fs.writeFile('./post/json/'+ slug +'.json', json, (err) => {
+      if (err) {
+          throw err;
+      }
+      // console.log("JSON data is saved.");
+    });
+
+    const p = record.fields;
+    let frontMatter = { // This is what the output of your md or yaml file will contain
+      'post_visible': p.post_visible,
+      status: p.status,
+      
       title: title,
+      subtitle: p.subtitle,
       slug: slug,
-      'custom_slug': '',
-      status: '',
+      'custom_slug': p.custom_slug,
+
       date: date,
-      'date_updated': '',
-      author: '',
-      subtitle: '',
-      'primary_tag': '',
-      tags: [
-        'javascript', 'node.js', 'web development'
-      ],
-      summary: '',
-      edit: '', // TODO: Move to markdown output
-      body: '', // TODO: Move to markdown output
-      featured: false,
-      'show_thumbnail': true,
-      thumbnail: '',
-      'prefer_wide_thumbnail': false,
-      wide_thumbnail: '',
-      hero_image: '',
-      post_images: [
-        'a','b','c'
-      ],
-      'post_visible': true
+      'date_updated': p.date_updated,
+      author: p.author,
+      
+      'primary_tag': p.primary_tag,
+      tags: p.tags,
+
+      summary: p.summary,
+      edit: p.edit,
+
+      featured: p.featured,
+      'show_thumbnail': p.show_thumbnail,
+      thumbnail: p.thumbnail,
+      'prefer_wide_thumbnail': p.prefer_wide_thumbnail,
+      wide_thumbnail: p.wide_thumbnail,
+      hero_image: p.hero_image,
+      post_images: p.post_images,
     };
-    
-    // Logs // TODO: Remove
-    console.log('Record: ', record.get('title'));
-    console.log('Date: ', record.get('date'));
-    console.log('Slug: ' + slug);
 
     // Export record as mm-yyyy-slug.md
-    export_md(record, slug, data);
+    export_md(record, slug, frontMatter);
   });
 
   // To fetch the next page of records, call `fetchNextPage`.
@@ -98,20 +107,18 @@ function slugify_string(record, title, date) {
 }
 
 // Export record to a markdown file
-// TODO: File name should be slugified
-function export_md(record, slug, data) {
-  let markdownOutput = 
-    '# Hello World!\n' +
-    slug;
+function export_md(record, slug, frontMatter) {
+  let markdownOutput =
+    record.fields.body;
 
-  let yamlStr = yaml.dump(data);
+  let yamlStr = yaml.dump(frontMatter);
 
   // Format our YFM (YAML Front Matter) + Markdown for output. 
   fs.writeFileSync(
-    './post/' + slug + '.md', 
-    '---\n'
-    + yamlStr +
+    './post/md/' + slug + '.md',
     '---\n' +
-    markdownOutput, 
+    yamlStr +
+    '---\n' +
+    markdownOutput,
     'utf8');
 }

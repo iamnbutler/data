@@ -1,0 +1,84 @@
+---
+post_visible: true
+status: draft
+title: Got Married ✌🏽
+subtitle: nbd
+slug: 2019-12-08-got-married
+custom_slug: got-married
+date: '2019-12-08'
+author: Nate Butler
+primary_tag: thought
+tags:
+  - thought
+show_thumbnail: true
+thumbnail:
+  - id: att1yBRr1PoymHbra
+    url: >-
+      https://dl.airtable.com/.attachments/c2f17f4a7a0861cdbcda7fdf33349e30/f13e9bcc/design_resources_1x1.jpg
+    filename: design_resources_1x1.jpg
+    size: 1080543
+    type: image/jpeg
+    thumbnails:
+      small:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/70956512c1a55e2e19e9746a147723c0/486c6001
+        width: 36
+        height: 36
+      large:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/78f465672b544866eaf102623173f83a/cfd943b4
+        width: 512
+        height: 512
+      full:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/418690ac940e163bc37408051163c15f/10f722cc
+        width: 3000
+        height: 3000
+wide_thumbnail:
+  - id: attXdA9A67dBwklJf
+    url: >-
+      https://dl.airtable.com/.attachments/918006163c635eaac455062cb2798487/556b285c/design_resources_2x1.jpg
+    filename: design_resources_2x1.jpg
+    size: 1726708
+    type: image/jpeg
+    thumbnails:
+      small:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/27a855d35c1a4cef69f4a4edcb6f9978/a1186c86
+        width: 73
+        height: 36
+      large:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/bcf5bc2bff5011ae4a3c7ca9347e12dd/3fbb86f6
+        width: 1040
+        height: 512
+      full:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/881e68ca0b0668a1c0cda14971b92236/0acfaf2e
+        width: 3000
+        height: 3000
+hero_image:
+  - id: att1cDAquWcySXz7a
+    url: >-
+      https://dl.airtable.com/.attachments/4d6b4bfa44e432e3f777bf09f932c7f8/ffdff742/design_resources_hero.jpg
+    filename: design_resources_hero.jpg
+    size: 1700656
+    type: image/jpeg
+    thumbnails:
+      small:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/3b0922d7c89cd576260aa6a0f26e5df6/74f40195
+        width: 72
+        height: 36
+      large:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/1d97c03eda870e03b9304ecc691798c0/e5e4fdbd
+        width: 1024
+        height: 512
+      full:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/22f82d0310afc08e81d7611e132c7f46/e19e17c1
+        width: 3000
+        height: 3000
+---
+<p>Got to marry my best friend today!</p><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:3000px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d30863017626d70d0645_0201.jpg" loading="lazy"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:3000px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d3137a61fb4fc810794b_0289.jpg" loading="lazy"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:3000px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d31f0fdcd7489d8399a1_0524.jpg" loading="lazy"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:3000px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d32d1016c7f3d1a5e4c2_0589.jpg" loading="lazy"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:2000px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d33ddc05ca0a6d4294be_0687.jpg" loading="lazy"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:6016px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d3491016c77689a5e5ec_046-pr-henrydelacweddings-HD1_3909.jpg" loading="lazy"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:6016px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d375dd28b76be3d94e8e_321-pr-henrydelacweddings-HD1_4170.jpg" loading="lazy"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:6016px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d367dde6796a24366732_341-pr-henrydelacweddings-HD2_5738.jpg" loading="lazy"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:5731px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d387837ca28df871fd94_356-pr-henrydelacweddings-HD2_5772.jpg" loading="lazy"></div></figure>

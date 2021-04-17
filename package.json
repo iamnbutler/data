@@ -7,15 +7,13 @@
     "airtable": "^0.10.1",
     "dotenv": "^8.2.0",
     "js-yaml": "^4.1.0",
-    "json-to-pretty-yaml": "^1.2.2",
     "markdown-it": "^12.0.5",
-    "markdown-js": "0.0.4",
-    "showdown": "^1.9.1",
-    "slugify": "^1.5.0",
-    "vscode-yaml": "^0.13.0"
+    "slugify": "^1.5.0"
   },
   "devDependencies": {},
   "scripts": {
+    "airtable-to-json": "./_scripts/airtable-to-json.js",
+    "airtable-to-md": "./_scripts/airtable-to-md.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

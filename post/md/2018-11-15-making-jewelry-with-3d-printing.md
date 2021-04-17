@@ -1,0 +1,63 @@
+---
+post_visible: true
+status: draft
+title: Making Jewelry with 3D Printing
+subtitle: Apparently you can 3D print metal? Let's have fun with this :)
+slug: 2018-11-15-making-jewelry-with-3d-printing
+custom_slug: 3d-printing-jewelry
+date: '2018-11-15'
+author: Nate Butler
+primary_tag: project
+tags:
+  - project
+  - 3d
+  - physical
+show_thumbnail: true
+thumbnail:
+  - id: attGCA8pBP4fzaKvm
+    url: >-
+      https://dl.airtable.com/.attachments/d1538c1943204414a5f08bebb50b32bb/b5e765eb/making-jewelry-with-3d-printing-thumbnail-1x1.jpg
+    filename: making-jewelry-with-3d-printing-thumbnail-1x1.jpg
+    size: 99952
+    type: image/jpeg
+    thumbnails:
+      small:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/09f61382830523d157f531ae0838f090/35f891f3
+        width: 36
+        height: 36
+      large:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/ad844bb83b7ffd1560fb446f94ab1cc1/1992cdff
+        width: 512
+        height: 512
+      full:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/d7bd7aad238fc0bc871a0eb9c7916ebf/941fa900
+        width: 3000
+        height: 3000
+wide_thumbnail:
+  - id: attSVoKts3o4RtyQW
+    url: >-
+      https://dl.airtable.com/.attachments/ddf3ee3fea3d8a894901e9a75c7728b4/88143f42/making-jewelry-with-3d-printing-thumbnail-2x1.jpg
+    filename: making-jewelry-with-3d-printing-thumbnail-2x1.jpg
+    size: 151965
+    type: image/jpeg
+    thumbnails:
+      small:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/27bb63413a754f266cbe6ce1d99b3ae6/dbeb9a57
+        width: 72
+        height: 36
+      large:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/37f9af7c31e549adb31831a708e5d04c/daf1a5b2
+        width: 1024
+        height: 512
+      full:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/ac3ca1962557c0445912bf2e5a38b353/85088773
+        width: 3000
+        height: 3000
+---
+<p>My wife is a huge Kingdom Hearts fan, so once I&nbsp;discovered that 3D printing metal was not only possible, but also not overly expensive, I decided I'd make her a custom Keyblade piece.</p><p>I'll try to remember to come back and post some of my exploratory sketches, but here is what the render looked like in the end:</p><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:1280px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604588f4a750bf39b64f0c2e_1432.jpg" loading="lazy" width="auto" height="auto"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:1920px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604588753fdb244e04e47e20_emc_test.jpg" loading="lazy" width="auto" height="auto"></div><figcaption>These were rendered using C4D&nbsp;+&nbsp;Octane. I think a few of the materials are from one of the GSG material packs. I&nbsp;tend to make all my own metal materials though.</figcaption></figure><p>First I&nbsp;printed a cheap plastic copy to get a feel for the size and iterate on some small details.</p><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:4032px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/60458ad47914e40a5f9786c6_IMG_0460.jpeg" loading="lazy" width="auto" height="auto"></div></figure><p>I&nbsp;printed the final key through <a href="https://www.shapeways.com/">Shapeways</a> and found a chain to match.</p><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:1197px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/60458a217f4f0738e4383d9e_IMG_0531.jpg" loading="lazy" width="auto" height="auto"></div></figure><figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width:320px"><div><img src="https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/60458aa42205df690e2e48cd_ezgif-2-e53e6f075123_small.gif" loading="lazy" width="auto" height="auto"></div></figure>

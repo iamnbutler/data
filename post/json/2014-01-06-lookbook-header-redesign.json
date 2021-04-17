@@ -1,0 +1,47 @@
+{
+    "_table": {
+        "_base": {
+            "_airtable": {
+                "requestTimeout": 300000
+            },
+            "_id": "appilsCAnAoIUEY8R"
+        },
+        "id": null,
+        "name": "Posts"
+    },
+    "id": "recGGgb88pyQh9h1R",
+    "_rawJson": {
+        "id": "recGGgb88pyQh9h1R",
+        "fields": {
+            "custom_slug": "lookbook-header-redesign",
+            "status": "backdate",
+            "title": "Lookbook Header Redesign",
+            "author": "Nate Butler",
+            "subtitle": "One of the first major commercial design projects I ever worked on.",
+            "primary_tag": "design",
+            "show_thumbnail": true,
+            "date": "2014-01-06",
+            "body": "<p>WIP</p>",
+            "tags": [
+                "design"
+            ],
+            "post_visible": true
+        },
+        "createdTime": "2021-04-10T22:39:42.000Z"
+    },
+    "fields": {
+        "custom_slug": "lookbook-header-redesign",
+        "status": "backdate",
+        "title": "Lookbook Header Redesign",
+        "author": "Nate Butler",
+        "subtitle": "One of the first major commercial design projects I ever worked on.",
+        "primary_tag": "design",
+        "show_thumbnail": true,
+        "date": "2014-01-06",
+        "body": "<p>WIP</p>",
+        "tags": [
+            "design"
+        ],
+        "post_visible": true
+    }
+}

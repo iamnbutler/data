@@ -1,0 +1,86 @@
+---
+post_visible: true
+status: draft
+title: Web Development Resources
+subtitle: Useful resources for the hobby developer in all of us.
+slug: 2021-03-15-web-development-resources
+custom_slug: web-development-resources
+date: '2021-03-15'
+author: Nate Butler
+primary_tag: list
+tags:
+  - tip
+  - design
+  - list
+show_thumbnail: true
+thumbnail:
+  - id: attZUCJ5nY8sio6XT
+    url: >-
+      https://dl.airtable.com/.attachments/d40ddf7a15530b9182aa06398e3998a9/5bfa9720/web-dev-resources-1x1.jpg
+    filename: web-dev-resources-1x1.jpg
+    size: 350481
+    type: image/jpeg
+    thumbnails:
+      small:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/8c5924947cc76b8c8a873edc6df59273/48780afe
+        width: 36
+        height: 36
+      large:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/f5270827d640861f547cfff046c35921/ed5e97e3
+        width: 512
+        height: 512
+      full:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/5eaf700107fdcf672dff8985d2561829/6a03db02
+        width: 3000
+        height: 3000
+wide_thumbnail:
+  - id: attEcF1iTVzzqBSTy
+    url: >-
+      https://dl.airtable.com/.attachments/988a10c6faeab315dfaef1e0b0e8694d/18f5d481/web-dev-resources-2x1.jpg
+    filename: web-dev-resources-2x1.jpg
+    size: 540414
+    type: image/jpeg
+    thumbnails:
+      small:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/2d17cc78ad0ef58d7d4ebdef8d5bf409/9ecd7562
+        width: 72
+        height: 36
+      large:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/43890fb8f90c4e3bce957461cc54b0d7/f9521dba
+        width: 1024
+        height: 512
+      full:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/c8d1d5f2095001161c82ebeded5ea580/9b543770
+        width: 3000
+        height: 3000
+hero_image:
+  - id: attAUuqKUYeIWM2BW
+    url: >-
+      https://dl.airtable.com/.attachments/ff00881d3f93c47d91d10976947263ff/88f53e18/web-dev-resources-hero-image.jpg
+    filename: web-dev-resources-hero-image.jpg
+    size: 540579
+    type: image/jpeg
+    thumbnails:
+      small:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/7b35d2c15c40a83b5660992f992743c1/5b602c98
+        width: 72
+        height: 36
+      large:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/0a227ea2e92b1befc23115ee1b62c657/c37cbc00
+        width: 1024
+        height: 512
+      full:
+        url: >-
+          https://dl.airtable.com/.attachmentThumbnails/e62ca21da839f09674453f2238b16121/fbe31141
+        width: 3000
+        height: 3000
+---
+<h2>CSS</h2><ul><li>Of course, the classics:&nbsp;CSSTricks' <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS&nbsp;Grid</a> and Flexbox guides.</li><li>This hand <a href="https://grid.layoutit.com/">CSS&nbsp;Grid generator</a>.</li></ul>
