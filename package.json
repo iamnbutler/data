@@ -8,7 +8,7 @@
     "dotenv": "^8.2.0",
     "js-yaml": "^4.1.0",
     "markdown-it": "^12.0.5",
-    "slugify": "^1.5.0",
+    "slugify": "^1.5.0"
   },
   "devDependencies": {},
   "scripts": {
