@@ -1,9 +1,9 @@
 ---
-title: Web Development Resources
-slug: 2021-03-15-web-development-resources
+title: Got Married ✌🏽
+slug: 2019-12-08-got-married
 custom_slug: ''
 status: ''
-date: '2021-03-15'
+date: '2019-12-08'
 date_updated: ''
 author: ''
 subtitle: ''
@@ -12,7 +12,7 @@ tags:
   - javascript
   - node.js
   - web development
-summary: ''
+summary: draft
 edit: ''
 body: ''
 featured: false
@@ -28,4 +28,4 @@ post_images:
 post_visible: true
 ---
 # Hello World!
-2021-03-15-web-development-resources
+2019-12-08-got-married

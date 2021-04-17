@@ -1,0 +1,51 @@
+{
+    "_table": {
+        "_base": {
+            "_airtable": {
+                "requestTimeout": 300000
+            },
+            "_id": "appilsCAnAoIUEY8R"
+        },
+        "id": null,
+        "name": "Posts"
+    },
+    "id": "recMwBH2yfCaKIM0w",
+    "_rawJson": {
+        "id": "recMwBH2yfCaKIM0w",
+        "fields": {
+            "custom_slug": "ny-fashion-hack-banaplate",
+            "status": "backdate",
+            "title": "NY Fashion Hack: Banaplate",
+            "author": "Nate Butler",
+            "subtitle": "Exploring Fashion blogging from a new angle.",
+            "primary_tag": "design",
+            "show_thumbnail": true,
+            "date": "2013-12-23",
+            "body": "<p>WIP</p>",
+            "post_images": "https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604bb21f3cdab8ba962d6c36_dribbble-shot.png; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604bb2192b4bbb3a02562cf9_Intro-Page.png; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604bb21964788fa2cc0d43dd_login-real-pix.png",
+            "tags": [
+                "project",
+                "design"
+            ],
+            "post_visible": true
+        },
+        "createdTime": "2021-04-10T22:39:42.000Z"
+    },
+    "fields": {
+        "custom_slug": "ny-fashion-hack-banaplate",
+        "status": "backdate",
+        "title": "NY Fashion Hack: Banaplate",
+        "author": "Nate Butler",
+        "subtitle": "Exploring Fashion blogging from a new angle.",
+        "primary_tag": "design",
+        "show_thumbnail": true,
+        "date": "2013-12-23",
+        "body": "<p>WIP</p>",
+        "post_images": "https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604bb21f3cdab8ba962d6c36_dribbble-shot.png; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604bb2192b4bbb3a02562cf9_Intro-Page.png; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604bb21964788fa2cc0d43dd_login-real-pix.png",
+        "tags": [
+            "project",
+            "design"
+        ],
+        "post_visible": true
+    }
+}

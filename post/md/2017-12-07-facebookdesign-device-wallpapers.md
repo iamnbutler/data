@@ -1,9 +1,9 @@
 ---
-title: Stock People Sets
-slug: 2020-11-20-stock-people-sets
+title: Facebook.design Device Wallpapers
+slug: 2017-12-07-facebookdesign-device-wallpapers
 custom_slug: ''
 status: ''
-date: '2020-11-20'
+date: '2017-12-07'
 date_updated: ''
 author: ''
 subtitle: ''
@@ -12,7 +12,7 @@ tags:
   - javascript
   - node.js
   - web development
-summary: ''
+summary: draft
 edit: ''
 body: ''
 featured: false
@@ -28,4 +28,4 @@ post_images:
 post_visible: true
 ---
 # Hello World!
-2020-11-20-stock-people-sets
+2017-12-07-facebookdesign-device-wallpapers

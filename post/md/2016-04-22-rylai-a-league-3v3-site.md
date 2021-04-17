@@ -1,9 +1,9 @@
 ---
-title: Desk Gear & Setup Guide
-slug: 2021-03-26-desk-gear-and-setup-guide
+title: Ryl.ai – A League 3V3 Site
+slug: 2016-04-22-rylai-a-league-3v3-site
 custom_slug: ''
 status: ''
-date: '2021-03-26'
+date: '2016-04-22'
 date_updated: ''
 author: ''
 subtitle: ''
@@ -12,7 +12,7 @@ tags:
   - javascript
   - node.js
   - web development
-summary: ''
+summary: backdate
 edit: ''
 body: ''
 featured: false
@@ -28,4 +28,4 @@ post_images:
 post_visible: true
 ---
 # Hello World!
-2021-03-26-desk-gear-and-setup-guide
+2016-04-22-rylai-a-league-3v3-site

@@ -1,9 +1,9 @@
 ---
-title: Got Married ✌🏽
-slug: 2019-12-08-got-married
+title: Lookbook Header Redesign
+slug: 2014-01-06-lookbook-header-redesign
 custom_slug: ''
 status: ''
-date: '2019-12-08'
+date: '2014-01-06'
 date_updated: ''
 author: ''
 subtitle: ''
@@ -12,7 +12,7 @@ tags:
   - javascript
   - node.js
   - web development
-summary: ''
+summary: backdate
 edit: ''
 body: ''
 featured: false
@@ -28,4 +28,4 @@ post_images:
 post_visible: true
 ---
 # Hello World!
-2019-12-08-got-married
+2014-01-06-lookbook-header-redesign

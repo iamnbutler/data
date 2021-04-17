@@ -1,0 +1,205 @@
+{
+    "_table": {
+        "_base": {
+            "_airtable": {
+                "requestTimeout": 300000
+            },
+            "_id": "appilsCAnAoIUEY8R"
+        },
+        "id": null,
+        "name": "Posts"
+    },
+    "id": "recAQvJSpeV5Fe8gP",
+    "_rawJson": {
+        "id": "recAQvJSpeV5Fe8gP",
+        "fields": {
+            "custom_slug": "design-resources",
+            "status": "draft",
+            "title": "Design Resources",
+            "author": "Nate Butler",
+            "hero_image": [
+                {
+                    "id": "attNSCRPIW3YL5fEA",
+                    "url": "https://dl.airtable.com/.attachments/04d3a1782279a4bf543f73b49bf296b6/7b08a01f/design_resources_hero.jpg",
+                    "filename": "design_resources_hero.jpg",
+                    "size": 506973,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/61737d6bd41407fbae183cecfb8b280c/0c6e6c57",
+                            "width": 73,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/6cd2045c89ff017244a3a20dbf32c946/af6a757b",
+                            "width": 1040,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/9ce3317ed41d30d22f84e208544cf294/5410ce57",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "atttrKZTPmBqAfXwz",
+                    "url": "https://dl.airtable.com/.attachments/127a198d6be41bfb374bce49bcdc201b/9cc66c59/design_resources_1x1.jpg",
+                    "filename": "design_resources_1x1.jpg",
+                    "size": 292727,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/a923fec01206548acd457e0e668509de/4f2b16fc",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/7bfd7645ebcb12eb2aca76a2fdbd5503/5a0f7734",
+                            "width": 512,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/59497d8452f10f78183c795bb8a94d4b/d2457eb5",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "subtitle": "Design readings & resources I've found valuable.",
+            "primary_tag": "design",
+            "show_thumbnail": true,
+            "date": "2021-03-08",
+            "body": "<h2>Design Critique</h2><ul><li><a href=\"https://www.figma.com/blog/design-critiques-at-figma/\">https://www.figma.com/blog/design-critiques-at-figma/</a> – A great article on why critiques often feel broken, and a tactical approach to fix them.</li></ul><h2>Culture</h2><ul><li><a href=\"https://www.jessicaharllee.com/notes/good-challenges-vs-bad-challenges/\">https://www.jessicaharllee.com/notes/good-challenges-vs-bad-challenges/</a></li></ul><h2>Reference</h2><ul><li><a href=\"https://staff.design/\">https://staff.design/</a> – Read about designers who chose to continue designing (known as an IC, or Individual contributor) at a high level rather than pursuing a manager track.</li><li><a href=\"https://www.levels.fyi/\">https://www.levels.fyi/ </a>– Compare levels and salaries across companies.</li></ul>",
+            "tags": [
+                "tip",
+                "design"
+            ],
+            "wide_thumbnail": [
+                {
+                    "id": "attVWl8v9MfMiBdkI",
+                    "url": "https://dl.airtable.com/.attachments/7ae7c2fce719492107fe93c610f151da/9b23e04a/design_resources_2x1.jpg",
+                    "filename": "design_resources_2x1.jpg",
+                    "size": 546359,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/43b227fa743fd2211268a25d31ae7faa/42ca3e6b",
+                            "width": 73,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/45adfbbbd0cb73bafbe329940e10dd54/f167e9b5",
+                            "width": 1040,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/9480248f84d01a7504851634e1a953aa/1f601cb5",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "post_visible": true
+        },
+        "createdTime": "2021-04-10T22:39:42.000Z"
+    },
+    "fields": {
+        "custom_slug": "design-resources",
+        "status": "draft",
+        "title": "Design Resources",
+        "author": "Nate Butler",
+        "hero_image": [
+            {
+                "id": "attNSCRPIW3YL5fEA",
+                "url": "https://dl.airtable.com/.attachments/04d3a1782279a4bf543f73b49bf296b6/7b08a01f/design_resources_hero.jpg",
+                "filename": "design_resources_hero.jpg",
+                "size": 506973,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/61737d6bd41407fbae183cecfb8b280c/0c6e6c57",
+                        "width": 73,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/6cd2045c89ff017244a3a20dbf32c946/af6a757b",
+                        "width": 1040,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/9ce3317ed41d30d22f84e208544cf294/5410ce57",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "thumbnail": [
+            {
+                "id": "atttrKZTPmBqAfXwz",
+                "url": "https://dl.airtable.com/.attachments/127a198d6be41bfb374bce49bcdc201b/9cc66c59/design_resources_1x1.jpg",
+                "filename": "design_resources_1x1.jpg",
+                "size": 292727,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/a923fec01206548acd457e0e668509de/4f2b16fc",
+                        "width": 36,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/7bfd7645ebcb12eb2aca76a2fdbd5503/5a0f7734",
+                        "width": 512,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/59497d8452f10f78183c795bb8a94d4b/d2457eb5",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "subtitle": "Design readings & resources I've found valuable.",
+        "primary_tag": "design",
+        "show_thumbnail": true,
+        "date": "2021-03-08",
+        "body": "<h2>Design Critique</h2><ul><li><a href=\"https://www.figma.com/blog/design-critiques-at-figma/\">https://www.figma.com/blog/design-critiques-at-figma/</a> – A great article on why critiques often feel broken, and a tactical approach to fix them.</li></ul><h2>Culture</h2><ul><li><a href=\"https://www.jessicaharllee.com/notes/good-challenges-vs-bad-challenges/\">https://www.jessicaharllee.com/notes/good-challenges-vs-bad-challenges/</a></li></ul><h2>Reference</h2><ul><li><a href=\"https://staff.design/\">https://staff.design/</a> – Read about designers who chose to continue designing (known as an IC, or Individual contributor) at a high level rather than pursuing a manager track.</li><li><a href=\"https://www.levels.fyi/\">https://www.levels.fyi/ </a>– Compare levels and salaries across companies.</li></ul>",
+        "tags": [
+            "tip",
+            "design"
+        ],
+        "wide_thumbnail": [
+            {
+                "id": "attVWl8v9MfMiBdkI",
+                "url": "https://dl.airtable.com/.attachments/7ae7c2fce719492107fe93c610f151da/9b23e04a/design_resources_2x1.jpg",
+                "filename": "design_resources_2x1.jpg",
+                "size": 546359,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/43b227fa743fd2211268a25d31ae7faa/42ca3e6b",
+                        "width": 73,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/45adfbbbd0cb73bafbe329940e10dd54/f167e9b5",
+                        "width": 1040,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/9480248f84d01a7504851634e1a953aa/1f601cb5",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "post_visible": true
+    }
+}

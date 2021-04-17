@@ -23,7 +23,7 @@ const base = new Airtable({
 // const status = ["Published", "Archive"]; // Add your status tags you want to publish here (i.e "posted", "archived".) This requires a field called "status" that returns an array of tags.
 
 base('Posts').select({
-  maxRecords: 10, // Max records to call
+  maxRecords: 999, // Max records to call
   view: "Post Grid",
   // filterByFormula: "NOT({title} = '')" // Use this and status to filter out records that are not published
   sort: [{
@@ -37,11 +37,19 @@ base('Posts').select({
     // Define variables
     const title = record.get('title');
     const date = record.get('date');
-
     // Create record slug
     let slug = slugify_string(record, title, date);
 
-    let data = {
+    const json = JSON.stringify(record, null, 4);
+
+    fs.writeFile('./post/json/'+ slug +'.json', json, (err) => {
+      if (err) {
+          throw err;
+      }
+      console.log("JSON data is saved.");
+    });
+
+    let data = { // This is what the output of your md or yaml file will contain
       title: title,
       slug: slug,
       'custom_slug': '',
@@ -54,7 +62,9 @@ base('Posts').select({
       tags: [
         'javascript', 'node.js', 'web development'
       ],
-      summary: '',
+      summary: record.get('status'),
+      // summary: record.get({fields: 'status'}),
+      // summary: record.get(fields['status']),
       edit: '', // TODO: Move to markdown output
       body: '', // TODO: Move to markdown output
       featured: false,
@@ -73,6 +83,7 @@ base('Posts').select({
     console.log('Record: ', record.get('title'));
     console.log('Date: ', record.get('date'));
     console.log('Slug: ' + slug);
+    console.log(record);
 
     // Export record as mm-yyyy-slug.md
     export_md(record, slug, data);
@@ -114,7 +125,7 @@ function export_md(record, slug, data) {
 
   // Format our YFM (YAML Front Matter) + Markdown for output. 
   fs.writeFileSync(
-    './post/' + slug + '.md',
+    './post/md/' + slug + '.md',
     '---\n' +
     yamlStr +
     '---\n' +

@@ -1,9 +1,9 @@
 ---
-title: Free Speech & Our Role
-slug: 2020-05-31-free-speech-and-our-role
+title: Negotiation and Managing Anxiety
+slug: 2016-03-27-negotiation-and-managing-anxiety
 custom_slug: ''
 status: ''
-date: '2020-05-31'
+date: '2016-03-27'
 date_updated: ''
 author: ''
 subtitle: ''
@@ -12,7 +12,7 @@ tags:
   - javascript
   - node.js
   - web development
-summary: ''
+summary: published
 edit: ''
 body: ''
 featured: false
@@ -28,4 +28,4 @@ post_images:
 post_visible: true
 ---
 # Hello World!
-2020-05-31-free-speech-and-our-role
+2016-03-27-negotiation-and-managing-anxiety

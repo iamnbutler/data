@@ -1,0 +1,51 @@
+{
+    "_table": {
+        "_base": {
+            "_airtable": {
+                "requestTimeout": 300000
+            },
+            "_id": "appilsCAnAoIUEY8R"
+        },
+        "id": null,
+        "name": "Posts"
+    },
+    "id": "rec5kOsl7phglSxF5",
+    "_rawJson": {
+        "id": "rec5kOsl7phglSxF5",
+        "fields": {
+            "custom_slug": "design-workshop-early-approach",
+            "status": "draft",
+            "title": "Design Workshop – Early Approach",
+            "author": "Nate Butler",
+            "subtitle": "A direction takes shape.",
+            "primary_tag": "design",
+            "show_thumbnail": true,
+            "date": "2015-10-18",
+            "body": "<p>This week was all about exploring a new direction for my design workshop – Pivoting away from VR&nbsp;and telepresence to a more experimental approach. I'm not sure where this is going, but the things on my mind right now are lines, motion, voxels and mini scenes. Going to keep exploring and see where I&nbsp;land.</p>",
+            "post_images": "https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfc726e7a43c3a79ed65_tiles.gif; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfc7045b28a2bbdd13ff_tunnel.gif; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfd7fd2afff05a9707ef_lines-03.png; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfe1690126f1a5d19114_zen-02.png; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfee4cfde026d93d7b85_zen-03.png",
+            "tags": [
+                "design",
+                "process"
+            ],
+            "post_visible": true
+        },
+        "createdTime": "2021-04-10T22:39:42.000Z"
+    },
+    "fields": {
+        "custom_slug": "design-workshop-early-approach",
+        "status": "draft",
+        "title": "Design Workshop – Early Approach",
+        "author": "Nate Butler",
+        "subtitle": "A direction takes shape.",
+        "primary_tag": "design",
+        "show_thumbnail": true,
+        "date": "2015-10-18",
+        "body": "<p>This week was all about exploring a new direction for my design workshop – Pivoting away from VR&nbsp;and telepresence to a more experimental approach. I'm not sure where this is going, but the things on my mind right now are lines, motion, voxels and mini scenes. Going to keep exploring and see where I&nbsp;land.</p>",
+        "post_images": "https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfc726e7a43c3a79ed65_tiles.gif; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfc7045b28a2bbdd13ff_tunnel.gif; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfd7fd2afff05a9707ef_lines-03.png; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfe1690126f1a5d19114_zen-02.png; https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddfee4cfde026d93d7b85_zen-03.png",
+        "tags": [
+            "design",
+            "process"
+        ],
+        "post_visible": true
+    }
+}

@@ -1,9 +1,9 @@
 ---
-title: mixblocks
-slug: 2021-04-10-mixblocks
+title: Watercooling A Playstation 4?
+slug: 2019-03-19-watercooling-a-playstation-4
 custom_slug: ''
 status: ''
-date: '2021-04-10'
+date: '2019-03-19'
 date_updated: ''
 author: ''
 subtitle: ''
@@ -12,7 +12,7 @@ tags:
   - javascript
   - node.js
   - web development
-summary: ''
+summary: draft
 edit: ''
 body: ''
 featured: false
@@ -28,4 +28,4 @@ post_images:
 post_visible: true
 ---
 # Hello World!
-2021-04-10-mixblocks
+2019-03-19-watercooling-a-playstation-4

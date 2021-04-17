@@ -1,9 +1,9 @@
 ---
-title: nurture tribute
-slug: 2021-04-13-nurture-tribute
+title: The Impostor Inside
+slug: 2016-02-09-the-impostor-inside
 custom_slug: ''
 status: ''
-date: '2021-04-13'
+date: '2016-02-09'
 date_updated: ''
 author: ''
 subtitle: ''
@@ -12,7 +12,7 @@ tags:
   - javascript
   - node.js
   - web development
-summary: ''
+summary: published
 edit: ''
 body: ''
 featured: false
@@ -28,4 +28,4 @@ post_images:
 post_visible: true
 ---
 # Hello World!
-2021-04-13-nurture-tribute
+2016-02-09-the-impostor-inside
