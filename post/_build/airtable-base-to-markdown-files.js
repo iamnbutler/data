@@ -10,7 +10,6 @@
 const dotenv = require("dotenv").config();
 const yaml = require('js-yaml');
 const slugify = require('slugify');
-// const markdown = require("markdown-it");
 const fs = require('fs');
 
 // Require airtable & set up a connection
@@ -46,47 +45,40 @@ base('Posts').select({
       if (err) {
           throw err;
       }
-      console.log("JSON data is saved.");
+      // console.log("JSON data is saved.");
     });
 
-    let data = { // This is what the output of your md or yaml file will contain
+    const p = record.fields;
+    let frontMatter = { // This is what the output of your md or yaml file will contain
+      'post_visible': p.post_visible,
+      status: p.status,
+      
       title: title,
+      subtitle: p.subtitle,
       slug: slug,
-      'custom_slug': '',
-      status: '',
+      'custom_slug': p.custom_slug,
+
       date: date,
-      'date_updated': '',
-      author: '',
-      subtitle: '',
-      'primary_tag': '',
-      tags: [
-        'javascript', 'node.js', 'web development'
-      ],
-      summary: record.get('status'),
-      // summary: record.get({fields: 'status'}),
-      // summary: record.get(fields['status']),
-      edit: '', // TODO: Move to markdown output
-      body: '', // TODO: Move to markdown output
-      featured: false,
-      'show_thumbnail': true,
-      thumbnail: '',
-      'prefer_wide_thumbnail': false,
-      wide_thumbnail: '',
-      hero_image: '',
-      post_images: [
-        'a', 'b', 'c'
-      ],
-      'post_visible': true
+      'date_updated': p.date_updated,
+      author: p.author,
+      
+      'primary_tag': p.primary_tag,
+      tags: p.tags,
+
+      summary: p.summary,
+      edit: p.edit,
+
+      featured: p.featured,
+      'show_thumbnail': p.show_thumbnail,
+      thumbnail: p.thumbnail,
+      'prefer_wide_thumbnail': p.prefer_wide_thumbnail,
+      wide_thumbnail: p.wide_thumbnail,
+      hero_image: p.hero_image,
+      post_images: p.post_images,
     };
 
-    // Logs // TODO: Remove
-    console.log('Record: ', record.get('title'));
-    console.log('Date: ', record.get('date'));
-    console.log('Slug: ' + slug);
-    console.log(record);
-
     // Export record as mm-yyyy-slug.md
-    export_md(record, slug, data);
+    export_md(record, slug, frontMatter);
   });
 
   // To fetch the next page of records, call `fetchNextPage`.
@@ -115,13 +107,11 @@ function slugify_string(record, title, date) {
 }
 
 // Export record to a markdown file
-// TODO: File name should be slugified
-function export_md(record, slug, data) {
+function export_md(record, slug, frontMatter) {
   let markdownOutput =
-    '# Hello World!\n' +
-    slug;
+    record.fields.body;
 
-  let yamlStr = yaml.dump(data);
+  let yamlStr = yaml.dump(frontMatter);
 
   // Format our YFM (YAML Front Matter) + Markdown for output. 
   fs.writeFileSync(
