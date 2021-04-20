@@ -19,24 +19,24 @@
             "author": "Nate Butler",
             "hero_image": [
                 {
-                    "id": "att1cDAquWcySXz7a",
-                    "url": "https://dl.airtable.com/.attachments/4d6b4bfa44e432e3f777bf09f932c7f8/ffdff742/design_resources_hero.jpg",
-                    "filename": "design_resources_hero.jpg",
-                    "size": 1700656,
+                    "id": "attU3MjIlsmDynrJO",
+                    "url": "https://dl.airtable.com/.attachments/f1544043758e67f313a19c49494f2140/073e5951/got_married_hero.jpg",
+                    "filename": "got_married_hero.jpg",
+                    "size": 1707514,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/3b0922d7c89cd576260aa6a0f26e5df6/74f40195",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/fde8e3572c581c34b9d94465d47364ca/ca0e9703",
                             "width": 72,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/1d97c03eda870e03b9304ecc691798c0/e5e4fdbd",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/d75ff2bf9c0149fca7894b85535baff9/17625710",
                             "width": 1024,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/22f82d0310afc08e81d7611e132c7f46/e19e17c1",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/a2f53b8e6da3c1be1ed1a76d685573e3/5f9d7a38",
                             "width": 3000,
                             "height": 3000
                         }
@@ -45,64 +45,68 @@
             ],
             "thumbnail": [
                 {
-                    "id": "att1yBRr1PoymHbra",
-                    "url": "https://dl.airtable.com/.attachments/c2f17f4a7a0861cdbcda7fdf33349e30/f13e9bcc/design_resources_1x1.jpg",
-                    "filename": "design_resources_1x1.jpg",
-                    "size": 1080543,
+                    "id": "attyy22cIM0tFcahl",
+                    "url": "https://dl.airtable.com/.attachments/e4fb1d4ff911c7191f2de5342c79ca7c/6c42a618/got_married_1x1.jpg",
+                    "filename": "got_married_1x1.jpg",
+                    "size": 1078708,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/70956512c1a55e2e19e9746a147723c0/486c6001",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/4411e352390a86bf2f4e338f753398b7/f7772e0a",
                             "width": 36,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/78f465672b544866eaf102623173f83a/cfd943b4",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/717951cd37d35794d0363e170ba7148e/6172eff9",
                             "width": 512,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/418690ac940e163bc37408051163c15f/10f722cc",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/40fd8abf91518f8c5c49a75bef8f9fd3/21cffa7b",
                             "width": 3000,
                             "height": 3000
                         }
                     }
                 }
             ],
+            "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/got_married_1x2.jpg",
             "subtitle": "nbd",
             "primary_tag": "thought",
             "show_thumbnail": true,
+            "featured": true,
             "date": "2019-12-08",
             "body": "<p>Got to marry my best friend today!</p><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:3000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d30863017626d70d0645_0201.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:3000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d3137a61fb4fc810794b_0289.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:3000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d31f0fdcd7489d8399a1_0524.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:3000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d32d1016c7f3d1a5e4c2_0589.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:2000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d33ddc05ca0a6d4294be_0687.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:6016px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d3491016c77689a5e5ec_046-pr-henrydelacweddings-HD1_3909.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:6016px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d375dd28b76be3d94e8e_321-pr-henrydelacweddings-HD1_4170.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:6016px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d367dde6796a24366732_341-pr-henrydelacweddings-HD2_5738.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:5731px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d387837ca28df871fd94_356-pr-henrydelacweddings-HD2_5772.jpg\" loading=\"lazy\"></div></figure>",
+            "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/got_married_hero.jpg",
             "tags": [
                 "thought"
             ],
             "wide_thumbnail": [
                 {
-                    "id": "attXdA9A67dBwklJf",
-                    "url": "https://dl.airtable.com/.attachments/918006163c635eaac455062cb2798487/556b285c/design_resources_2x1.jpg",
-                    "filename": "design_resources_2x1.jpg",
-                    "size": 1726708,
+                    "id": "att1ucrRw0jvjWc1W",
+                    "url": "https://dl.airtable.com/.attachments/2fa206d21543dcde7aeb3b07ec82c132/eedf16b3/got_married_1x2.jpg",
+                    "filename": "got_married_1x2.jpg",
+                    "size": 1733161,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/27a855d35c1a4cef69f4a4edcb6f9978/a1186c86",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/e2a43cb571743d0f655752779bd454f9/54eca1c9",
                             "width": 73,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/bcf5bc2bff5011ae4a3c7ca9347e12dd/3fbb86f6",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/59740c66584437cb890c5a5f5b4fab34/18cff061",
                             "width": 1040,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/881e68ca0b0668a1c0cda14971b92236/0acfaf2e",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/9f8a070ea1404f05afd5581da0791fbd/1034ff5d",
                             "width": 3000,
                             "height": 3000
                         }
                     }
                 }
             ],
+            "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/got_married_1x1.jpg",
             "post_visible": true
         },
         "createdTime": "2021-04-10T22:39:42.000Z"
@@ -114,24 +118,24 @@
         "author": "Nate Butler",
         "hero_image": [
             {
-                "id": "att1cDAquWcySXz7a",
-                "url": "https://dl.airtable.com/.attachments/4d6b4bfa44e432e3f777bf09f932c7f8/ffdff742/design_resources_hero.jpg",
-                "filename": "design_resources_hero.jpg",
-                "size": 1700656,
+                "id": "attU3MjIlsmDynrJO",
+                "url": "https://dl.airtable.com/.attachments/f1544043758e67f313a19c49494f2140/073e5951/got_married_hero.jpg",
+                "filename": "got_married_hero.jpg",
+                "size": 1707514,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/3b0922d7c89cd576260aa6a0f26e5df6/74f40195",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/fde8e3572c581c34b9d94465d47364ca/ca0e9703",
                         "width": 72,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/1d97c03eda870e03b9304ecc691798c0/e5e4fdbd",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/d75ff2bf9c0149fca7894b85535baff9/17625710",
                         "width": 1024,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/22f82d0310afc08e81d7611e132c7f46/e19e17c1",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/a2f53b8e6da3c1be1ed1a76d685573e3/5f9d7a38",
                         "width": 3000,
                         "height": 3000
                     }
@@ -140,64 +144,68 @@
         ],
         "thumbnail": [
             {
-                "id": "att1yBRr1PoymHbra",
-                "url": "https://dl.airtable.com/.attachments/c2f17f4a7a0861cdbcda7fdf33349e30/f13e9bcc/design_resources_1x1.jpg",
-                "filename": "design_resources_1x1.jpg",
-                "size": 1080543,
+                "id": "attyy22cIM0tFcahl",
+                "url": "https://dl.airtable.com/.attachments/e4fb1d4ff911c7191f2de5342c79ca7c/6c42a618/got_married_1x1.jpg",
+                "filename": "got_married_1x1.jpg",
+                "size": 1078708,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/70956512c1a55e2e19e9746a147723c0/486c6001",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/4411e352390a86bf2f4e338f753398b7/f7772e0a",
                         "width": 36,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/78f465672b544866eaf102623173f83a/cfd943b4",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/717951cd37d35794d0363e170ba7148e/6172eff9",
                         "width": 512,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/418690ac940e163bc37408051163c15f/10f722cc",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/40fd8abf91518f8c5c49a75bef8f9fd3/21cffa7b",
                         "width": 3000,
                         "height": 3000
                     }
                 }
             }
         ],
+        "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/got_married_1x2.jpg",
         "subtitle": "nbd",
         "primary_tag": "thought",
         "show_thumbnail": true,
+        "featured": true,
         "date": "2019-12-08",
         "body": "<p>Got to marry my best friend today!</p><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:3000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d30863017626d70d0645_0201.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:3000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d3137a61fb4fc810794b_0289.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:3000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d31f0fdcd7489d8399a1_0524.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:3000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d32d1016c7f3d1a5e4c2_0589.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:2000px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d33ddc05ca0a6d4294be_0687.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:6016px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d3491016c77689a5e5ec_046-pr-henrydelacweddings-HD1_3909.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:6016px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d375dd28b76be3d94e8e_321-pr-henrydelacweddings-HD1_4170.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:6016px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d367dde6796a24366732_341-pr-henrydelacweddings-HD2_5738.jpg\" loading=\"lazy\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:5731px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/6046d387837ca28df871fd94_356-pr-henrydelacweddings-HD2_5772.jpg\" loading=\"lazy\"></div></figure>",
+        "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/got_married_hero.jpg",
         "tags": [
             "thought"
         ],
         "wide_thumbnail": [
             {
-                "id": "attXdA9A67dBwklJf",
-                "url": "https://dl.airtable.com/.attachments/918006163c635eaac455062cb2798487/556b285c/design_resources_2x1.jpg",
-                "filename": "design_resources_2x1.jpg",
-                "size": 1726708,
+                "id": "att1ucrRw0jvjWc1W",
+                "url": "https://dl.airtable.com/.attachments/2fa206d21543dcde7aeb3b07ec82c132/eedf16b3/got_married_1x2.jpg",
+                "filename": "got_married_1x2.jpg",
+                "size": 1733161,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/27a855d35c1a4cef69f4a4edcb6f9978/a1186c86",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/e2a43cb571743d0f655752779bd454f9/54eca1c9",
                         "width": 73,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/bcf5bc2bff5011ae4a3c7ca9347e12dd/3fbb86f6",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/59740c66584437cb890c5a5f5b4fab34/18cff061",
                         "width": 1040,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/881e68ca0b0668a1c0cda14971b92236/0acfaf2e",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/9f8a070ea1404f05afd5581da0791fbd/1034ff5d",
                         "width": 3000,
                         "height": 3000
                     }
                 }
             }
         ],
+        "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/got_married_1x1.jpg",
         "post_visible": true
     }
 }

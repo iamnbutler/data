@@ -12,6 +12,7 @@ tags:
   - design
   - project
   - resource
+featured: true
 show_thumbnail: true
 ---
 <p>Today we launched facebook.design, and the iOS&nbsp;10 GUI as a way to give back to the community! You can read more about it here:&nbsp;https://medium.com/facebook-design/giving-back-to-the-design-community-2c0b4cbb091f</p><p>I primarily worked on the the Photoshop GUI!</p>

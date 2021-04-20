@@ -18,68 +18,97 @@
             "title": "mixblocks",
             "summary": "Learn, create & remix with light and sound. mixblocks lets you create small, open source blocks that anyone can use to make creations, license free–with a focus on physical output to displays like LED Dot Matrices.",
             "author": "Nate Butler",
-            "thumbnail": [
+            "hero_image": [
                 {
-                    "id": "atto9OPpZI7aJIRGv",
-                    "url": "https://dl.airtable.com/.attachments/a2ef56f351801394642a7aeb18bd5ebf/4916127d/mixblocks-1x1.jpg",
-                    "filename": "mixblocks-1x1.jpg",
-                    "size": 237898,
+                    "id": "attZiAjwGShlFBV6W",
+                    "url": "https://dl.airtable.com/.attachments/e42891c518d5dbc7bc35b6f1d5bcd674/5d7f3de3/mixblocks_hero.jpg",
+                    "filename": "mixblocks_hero.jpg",
+                    "size": 464577,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/fb30f570c75fda8e867253ea01a674da/fca50501",
-                            "width": 36,
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/f57425b6bc6cd04f9001f78be1d57035/f9bb9aa4",
+                            "width": 72,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/4854128f966d25e28c4255e69bfd1330/44e71267",
-                            "width": 512,
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/a0e15cc1d4ef4611c7e3c6bbe08eeee5/7a311a15",
+                            "width": 1024,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/d02a09c188d87623713bf390c04a5fc1/4e992112",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/f4616bec8316eb6543b0515e0633e2ed/610561f7",
                             "width": 3000,
                             "height": 3000
                         }
                     }
                 }
             ],
-            "subtitle": "Social creativity, without the icky.",
+            "thumbnail": [
+                {
+                    "id": "attmqrLffigG0XEEh",
+                    "url": "https://dl.airtable.com/.attachments/40b62dec9ffafead1f425d0e76609126/42b2f1d0/mixblocks_1x1.jpg",
+                    "filename": "mixblocks_1x1.jpg",
+                    "size": 354602,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/a1fb30c84d27800469ff6c33a112aa37/0dfa45bf",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/7de2b880d8e45d99d7802c7a33da6a9b/860bb0a9",
+                            "width": 512,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/438c86b6c8d98275f39f98a48db17fcf/795e90dd",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_1x2.jpg",
+            "subtitle": "Collective creativity, without the social media icky.",
             "primary_tag": "design",
             "show_thumbnail": true,
             "featured": true,
             "date": "2021-04-10",
             "body": "## The Concept\n\nInspired by a project a friend did recently about a display that reacts to your music, I started exploring *mixblocks*–A creation & remix tool focused around collabrative creation through the sharing of 'blocks.' While Mixblocks has a feed of creations that you can grab and remix from, it has no likes, no connected identites, and no custom user names. \n\n## Joining Mixblocks\n\nWhen joining mixblocks a creator is assigned a randomly generated name & profile image, which they can regnerate any amount of times. This generated name becomes the pseudonym that they create under. Starting from the very beginning of the process, mixblocks is focused on creation and not social presence or clout.\n\n(Insert intro flow here)\nCaption: The new person flow for mixblocks is focused on geting you in and creating as soon as possible. You can only create an account with your phone number or a secure auth service like Apple authentication. Mixblocks wants to know as little about you as possible.\n\n## Your First Block\nDropping into the app for the first time you will walk through creating your first block. This can be a lightblock or a sound block, but you have to create something to enter the rest of the app. You can walk through your first app guided (think the first level of Sound Shapes) or choose to jump straight into creation.\n\n## Remixing & Sharing\n\n## Importing & Exporting\n\n## Beyond Digital\nTake your blocks and run with them – Mixblocks is built from the ground up for use with hacker and maker tools like arduino, LED Matrixes, etc. Write your own custom integrations, or grab from one that already exists.\n\n",
+            "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_hero.jpg",
             "tags": [
                 "design",
                 "project"
             ],
             "wide_thumbnail": [
                 {
-                    "id": "attE9WSmYOUKxRiN4",
-                    "url": "https://dl.airtable.com/.attachments/ee5a055ce30fa4bd9beb524f7041a24d/c871d54c/mixblocks-2x1.jpg",
-                    "filename": "mixblocks-2x1.jpg",
-                    "size": 377260,
+                    "id": "attE66VV0D0lPbB2I",
+                    "url": "https://dl.airtable.com/.attachments/ce4b11b9b49c85ab3d60c09dbd64a398/ad584bf6/mixblocks_1x2.jpg",
+                    "filename": "mixblocks_1x2.jpg",
+                    "size": 550437,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/2950362d39222da705317cc86948fbd2/0deff09e",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/466e800a4d99116492335478190b24de/b2e4f1b6",
                             "width": 72,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/907e678652e07aa5a8dac48a035024cf/a7e8ff01",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/16d46a19a89d6f7cf8d5ad9652c62d7f/ab97b432",
                             "width": 1024,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/bf9dd5f0674220fdc12485e25aeefb85/b3fcccfc",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/7733ab65f1b4628c743d2a1b9e54b57b/707a1ae4",
                             "width": 3000,
                             "height": 3000
                         }
                     }
                 }
             ],
+            "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_1x1.jpg",
             "post_visible": true
         },
         "createdTime": "2021-04-10T23:54:21.000Z"
@@ -90,68 +119,97 @@
         "title": "mixblocks",
         "summary": "Learn, create & remix with light and sound. mixblocks lets you create small, open source blocks that anyone can use to make creations, license free–with a focus on physical output to displays like LED Dot Matrices.",
         "author": "Nate Butler",
-        "thumbnail": [
+        "hero_image": [
             {
-                "id": "atto9OPpZI7aJIRGv",
-                "url": "https://dl.airtable.com/.attachments/a2ef56f351801394642a7aeb18bd5ebf/4916127d/mixblocks-1x1.jpg",
-                "filename": "mixblocks-1x1.jpg",
-                "size": 237898,
+                "id": "attZiAjwGShlFBV6W",
+                "url": "https://dl.airtable.com/.attachments/e42891c518d5dbc7bc35b6f1d5bcd674/5d7f3de3/mixblocks_hero.jpg",
+                "filename": "mixblocks_hero.jpg",
+                "size": 464577,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/fb30f570c75fda8e867253ea01a674da/fca50501",
-                        "width": 36,
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/f57425b6bc6cd04f9001f78be1d57035/f9bb9aa4",
+                        "width": 72,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/4854128f966d25e28c4255e69bfd1330/44e71267",
-                        "width": 512,
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/a0e15cc1d4ef4611c7e3c6bbe08eeee5/7a311a15",
+                        "width": 1024,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/d02a09c188d87623713bf390c04a5fc1/4e992112",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/f4616bec8316eb6543b0515e0633e2ed/610561f7",
                         "width": 3000,
                         "height": 3000
                     }
                 }
             }
         ],
-        "subtitle": "Social creativity, without the icky.",
+        "thumbnail": [
+            {
+                "id": "attmqrLffigG0XEEh",
+                "url": "https://dl.airtable.com/.attachments/40b62dec9ffafead1f425d0e76609126/42b2f1d0/mixblocks_1x1.jpg",
+                "filename": "mixblocks_1x1.jpg",
+                "size": 354602,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/a1fb30c84d27800469ff6c33a112aa37/0dfa45bf",
+                        "width": 36,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/7de2b880d8e45d99d7802c7a33da6a9b/860bb0a9",
+                        "width": 512,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/438c86b6c8d98275f39f98a48db17fcf/795e90dd",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_1x2.jpg",
+        "subtitle": "Collective creativity, without the social media icky.",
         "primary_tag": "design",
         "show_thumbnail": true,
         "featured": true,
         "date": "2021-04-10",
         "body": "## The Concept\n\nInspired by a project a friend did recently about a display that reacts to your music, I started exploring *mixblocks*–A creation & remix tool focused around collabrative creation through the sharing of 'blocks.' While Mixblocks has a feed of creations that you can grab and remix from, it has no likes, no connected identites, and no custom user names. \n\n## Joining Mixblocks\n\nWhen joining mixblocks a creator is assigned a randomly generated name & profile image, which they can regnerate any amount of times. This generated name becomes the pseudonym that they create under. Starting from the very beginning of the process, mixblocks is focused on creation and not social presence or clout.\n\n(Insert intro flow here)\nCaption: The new person flow for mixblocks is focused on geting you in and creating as soon as possible. You can only create an account with your phone number or a secure auth service like Apple authentication. Mixblocks wants to know as little about you as possible.\n\n## Your First Block\nDropping into the app for the first time you will walk through creating your first block. This can be a lightblock or a sound block, but you have to create something to enter the rest of the app. You can walk through your first app guided (think the first level of Sound Shapes) or choose to jump straight into creation.\n\n## Remixing & Sharing\n\n## Importing & Exporting\n\n## Beyond Digital\nTake your blocks and run with them – Mixblocks is built from the ground up for use with hacker and maker tools like arduino, LED Matrixes, etc. Write your own custom integrations, or grab from one that already exists.\n\n",
+        "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_hero.jpg",
         "tags": [
             "design",
             "project"
         ],
         "wide_thumbnail": [
             {
-                "id": "attE9WSmYOUKxRiN4",
-                "url": "https://dl.airtable.com/.attachments/ee5a055ce30fa4bd9beb524f7041a24d/c871d54c/mixblocks-2x1.jpg",
-                "filename": "mixblocks-2x1.jpg",
-                "size": 377260,
+                "id": "attE66VV0D0lPbB2I",
+                "url": "https://dl.airtable.com/.attachments/ce4b11b9b49c85ab3d60c09dbd64a398/ad584bf6/mixblocks_1x2.jpg",
+                "filename": "mixblocks_1x2.jpg",
+                "size": 550437,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/2950362d39222da705317cc86948fbd2/0deff09e",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/466e800a4d99116492335478190b24de/b2e4f1b6",
                         "width": 72,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/907e678652e07aa5a8dac48a035024cf/a7e8ff01",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/16d46a19a89d6f7cf8d5ad9652c62d7f/ab97b432",
                         "width": 1024,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/bf9dd5f0674220fdc12485e25aeefb85/b3fcccfc",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/7733ab65f1b4628c743d2a1b9e54b57b/707a1ae4",
                         "width": 3000,
                         "height": 3000
                     }
                 }
             }
         ],
+        "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_1x1.jpg",
         "post_visible": true
     }
 }

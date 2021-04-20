@@ -1,0 +1,37 @@
+{
+    "_table": {
+        "_base": {
+            "_airtable": {
+                "requestTimeout": 300000
+            },
+            "_id": "appilsCAnAoIUEY8R"
+        },
+        "id": null,
+        "name": "Posts"
+    },
+    "id": "recrDFc7o7pPGqPEy",
+    "_rawJson": {
+        "id": "recrDFc7o7pPGqPEy",
+        "fields": {
+            "status": "planned",
+            "title": "Creating a YAML data repository",
+            "author": "Nate Butler",
+            "primary_tag": "guide",
+            "tags": [
+                "guide"
+            ],
+            "post_visible": true
+        },
+        "createdTime": "2021-04-20T08:19:53.000Z"
+    },
+    "fields": {
+        "status": "planned",
+        "title": "Creating a YAML data repository",
+        "author": "Nate Butler",
+        "primary_tag": "guide",
+        "tags": [
+            "guide"
+        ],
+        "post_visible": true
+    }
+}

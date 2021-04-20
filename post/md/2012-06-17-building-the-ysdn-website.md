@@ -11,6 +11,7 @@ primary_tag: design
 tags:
   - design
   - project
+featured: true
 show_thumbnail: true
 post_images: >-
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604be88c69012607abca0026_YSDN_Bachelor_Base_Rough.jpg;

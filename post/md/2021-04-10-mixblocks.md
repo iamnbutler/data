@@ -2,7 +2,7 @@
 post_visible: true
 status: draft
 title: mixblocks
-subtitle: Social creativity, without the icky.
+subtitle: Collective creativity, without the social media icky.
 slug: 2021-04-10-mixblocks
 custom_slug: mixblocks
 date: '2021-04-10'
@@ -17,52 +17,9 @@ summary: >-
   focus on physical output to displays like LED Dot Matrices.
 featured: true
 show_thumbnail: true
-thumbnail:
-  - id: atto9OPpZI7aJIRGv
-    url: >-
-      https://dl.airtable.com/.attachments/a2ef56f351801394642a7aeb18bd5ebf/4916127d/mixblocks-1x1.jpg
-    filename: mixblocks-1x1.jpg
-    size: 237898
-    type: image/jpeg
-    thumbnails:
-      small:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/fb30f570c75fda8e867253ea01a674da/fca50501
-        width: 36
-        height: 36
-      large:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/4854128f966d25e28c4255e69bfd1330/44e71267
-        width: 512
-        height: 512
-      full:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/d02a09c188d87623713bf390c04a5fc1/4e992112
-        width: 3000
-        height: 3000
-wide_thumbnail:
-  - id: attE9WSmYOUKxRiN4
-    url: >-
-      https://dl.airtable.com/.attachments/ee5a055ce30fa4bd9beb524f7041a24d/c871d54c/mixblocks-2x1.jpg
-    filename: mixblocks-2x1.jpg
-    size: 377260
-    type: image/jpeg
-    thumbnails:
-      small:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/2950362d39222da705317cc86948fbd2/0deff09e
-        width: 72
-        height: 36
-      large:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/907e678652e07aa5a8dac48a035024cf/a7e8ff01
-        width: 1024
-        height: 512
-      full:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/bf9dd5f0674220fdc12485e25aeefb85/b3fcccfc
-        width: 3000
-        height: 3000
+thumbnail: https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_1x1.jpg
+wide_thumbnail: https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_1x2.jpg
+hero_image: https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_hero.jpg
 ---
 ## The Concept
 

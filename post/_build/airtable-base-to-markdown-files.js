@@ -70,10 +70,10 @@ base('Posts').select({
 
       featured: p.featured,
       'show_thumbnail': p.show_thumbnail,
-      thumbnail: p.thumbnail,
+      thumbnail: p.thumbnail_url,
       'prefer_wide_thumbnail': p.prefer_wide_thumbnail,
-      wide_thumbnail: p.wide_thumbnail,
-      hero_image: p.hero_image,
+      wide_thumbnail: p.wide_thumbnail_url,
+      hero_image: p.hero_image_url,
       post_images: p.post_images,
     };
 

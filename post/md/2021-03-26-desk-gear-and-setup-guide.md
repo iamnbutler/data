@@ -14,76 +14,10 @@ tags:
   - guide
 featured: true
 show_thumbnail: true
-thumbnail:
-  - id: attLJ2oHl7MMC96t7
-    url: >-
-      https://dl.airtable.com/.attachments/d799fccdecc33bb987c7dcceb8010015/7174de8f/desk-setup-guide-1x1.jpg
-    filename: desk-setup-guide-1x1.jpg
-    size: 712052
-    type: image/jpeg
-    thumbnails:
-      small:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/e4be0db40bc397e1eb67eacd8815b9bc/106a65e3
-        width: 36
-        height: 36
-      large:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/831796d9534c3901d2b84ab5036d5f69/9718cd6c
-        width: 512
-        height: 512
-      full:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/a768e78ebd0f4cbdb30f8523ee192ad3/18c27e6e
-        width: 3000
-        height: 3000
+thumbnail: https://storage.googleapis.com/yaminateo-image-bucket/img/desk_guide_1x1.jpg
 prefer_wide_thumbnail: true
-wide_thumbnail:
-  - id: attdkMzXkIfNyyNwb
-    url: >-
-      https://dl.airtable.com/.attachments/11ad4cc664f816f64496cc2a0896602d/07aed9af/desk-setup-guide-2x1.jpg
-    filename: desk-setup-guide-2x1.jpg
-    size: 416988
-    type: image/jpeg
-    thumbnails:
-      small:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/b64fb86d266a2bd99aded4f7f22835bf/a3e702fa
-        width: 72
-        height: 36
-      large:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/993e5c3982d47d27cb08b4cd4a7ae42d/89d925cd
-        width: 1000
-        height: 500
-      full:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/f65898b025c24bfd26b0e044a9af0176/1e96f03c
-        width: 3000
-        height: 3000
-hero_image:
-  - id: attaejrTbxl4bOdIr
-    url: >-
-      https://dl.airtable.com/.attachments/d889a195dafaf1432832afa96b75ccd8/88dfda2f/desk-setup-guide-hero.jpg
-    filename: desk-setup-guide-hero.jpg
-    size: 412635
-    type: image/jpeg
-    thumbnails:
-      small:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/10085a6eb1b57a08aa1c779191069905/ecbb67dd
-        width: 64
-        height: 36
-      large:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/2cb57cdf39164b2ca21d0d42b4fe992e/f6334ffd
-        width: 910
-        height: 512
-      full:
-        url: >-
-          https://dl.airtable.com/.attachmentThumbnails/58ec415115f0811e4bc3dbe490f95e66/a1841b02
-        width: 3000
-        height: 3000
+wide_thumbnail: https://storage.googleapis.com/yaminateo-image-bucket/img/desk_guide_2x1.jpg
+hero_image: https://storage.googleapis.com/yaminateo-image-bucket/img/desk_guide_hero.jpg
 ---
 _INTRO WIP_
 

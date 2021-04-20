@@ -15,64 +15,93 @@
         "fields": {
             "status": "draft",
             "title": "nurture tribute",
-            "thumbnail": [
+            "hero_image": [
                 {
-                    "id": "attrngaqCGFUcF3kv",
-                    "url": "https://dl.airtable.com/.attachments/185f2c1e35bc10044dcf255f1c65a43f/0617b42f/nurture_tribute_1x1.jpg",
-                    "filename": "nurture_tribute_1x1.jpg",
-                    "size": 630222,
+                    "id": "att1FWPbK6AkelJm5",
+                    "url": "https://dl.airtable.com/.attachments/a2616dece1476f16158e29453ae7f13e/7bc9470e/nurture_tribute_hero.jpg",
+                    "filename": "nurture_tribute_hero.jpg",
+                    "size": 938563,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/4bf51302d2e63c5ea95e3ae7106a067e/6b9a0b43",
-                            "width": 36,
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/269328cba2cd1fe279853c5c44f059df/4993d032",
+                            "width": 72,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/e759e9560823b6dc81848ec85e3c3a9e/9021eff3",
-                            "width": 512,
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/314aa67c93046378353d0a64f504e253/abadf833",
+                            "width": 1024,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/9ca1f27576ba0fcacde949e47254a81d/3c5d3cb1",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/341b1e7b94753edd5bdbc223d492863c/148e64fb",
                             "width": 3000,
                             "height": 3000
                         }
                     }
                 }
             ],
+            "thumbnail": [
+                {
+                    "id": "attrfSRN8cpXZSREQ",
+                    "url": "https://dl.airtable.com/.attachments/2fd1a7e373a0593586d99c525c4b740f/82211266/nurture_tribute_1x1.jpg",
+                    "filename": "nurture_tribute_1x1.jpg",
+                    "size": 629324,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/942182ac6618eb463220f21a71473a06/c65ba112",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/7f424e5b01babebf308fa9084bcc2fd4/8ac7f3fc",
+                            "width": 512,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/9459b8ebdf4609c9218f379a7810a02c/a63c93f7",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_2x1.jpg",
             "primary_tag": "art",
             "show_thumbnail": true,
             "date": "2021-04-13",
+            "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_hero.jpg",
             "tags": [
                 "art"
             ],
             "wide_thumbnail": [
                 {
-                    "id": "atttEEjpLCPirHVIq",
-                    "url": "https://dl.airtable.com/.attachments/7e617773a02ca0d33564c984eeb49a4c/3c69e13e/nurture_tribute_2x1.jpg",
+                    "id": "attHbf4kSADU7vLii",
+                    "url": "https://dl.airtable.com/.attachments/1b07e184b9118efedca80393935f7adf/35288923/nurture_tribute_2x1.jpg",
                     "filename": "nurture_tribute_2x1.jpg",
-                    "size": 938183,
+                    "size": 938624,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/d584ec0fcb105e5d6efe66fb15e386ea/d3ebd664",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/77427c4d7d09ad41e43375daf6f707c3/0464e214",
                             "width": 72,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/8186e76c8ca272968bc3921d80765694/8402f55e",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/b07ed1ed3add96d63faf779c87cb33da/6aac1818",
                             "width": 1024,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/51258e57c9a68f6b07608b8c1fc92bda/e9ed599d",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/1b66845b14d13204541305ba77ba4d04/786b9c54",
                             "width": 3000,
                             "height": 3000
                         }
                     }
                 }
             ],
+            "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_1x1.jpg",
             "post_visible": true
         },
         "createdTime": "2021-04-13T17:14:33.000Z"
@@ -80,64 +109,93 @@
     "fields": {
         "status": "draft",
         "title": "nurture tribute",
-        "thumbnail": [
+        "hero_image": [
             {
-                "id": "attrngaqCGFUcF3kv",
-                "url": "https://dl.airtable.com/.attachments/185f2c1e35bc10044dcf255f1c65a43f/0617b42f/nurture_tribute_1x1.jpg",
-                "filename": "nurture_tribute_1x1.jpg",
-                "size": 630222,
+                "id": "att1FWPbK6AkelJm5",
+                "url": "https://dl.airtable.com/.attachments/a2616dece1476f16158e29453ae7f13e/7bc9470e/nurture_tribute_hero.jpg",
+                "filename": "nurture_tribute_hero.jpg",
+                "size": 938563,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/4bf51302d2e63c5ea95e3ae7106a067e/6b9a0b43",
-                        "width": 36,
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/269328cba2cd1fe279853c5c44f059df/4993d032",
+                        "width": 72,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/e759e9560823b6dc81848ec85e3c3a9e/9021eff3",
-                        "width": 512,
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/314aa67c93046378353d0a64f504e253/abadf833",
+                        "width": 1024,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/9ca1f27576ba0fcacde949e47254a81d/3c5d3cb1",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/341b1e7b94753edd5bdbc223d492863c/148e64fb",
                         "width": 3000,
                         "height": 3000
                     }
                 }
             }
         ],
+        "thumbnail": [
+            {
+                "id": "attrfSRN8cpXZSREQ",
+                "url": "https://dl.airtable.com/.attachments/2fd1a7e373a0593586d99c525c4b740f/82211266/nurture_tribute_1x1.jpg",
+                "filename": "nurture_tribute_1x1.jpg",
+                "size": 629324,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/942182ac6618eb463220f21a71473a06/c65ba112",
+                        "width": 36,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/7f424e5b01babebf308fa9084bcc2fd4/8ac7f3fc",
+                        "width": 512,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/9459b8ebdf4609c9218f379a7810a02c/a63c93f7",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_2x1.jpg",
         "primary_tag": "art",
         "show_thumbnail": true,
         "date": "2021-04-13",
+        "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_hero.jpg",
         "tags": [
             "art"
         ],
         "wide_thumbnail": [
             {
-                "id": "atttEEjpLCPirHVIq",
-                "url": "https://dl.airtable.com/.attachments/7e617773a02ca0d33564c984eeb49a4c/3c69e13e/nurture_tribute_2x1.jpg",
+                "id": "attHbf4kSADU7vLii",
+                "url": "https://dl.airtable.com/.attachments/1b07e184b9118efedca80393935f7adf/35288923/nurture_tribute_2x1.jpg",
                 "filename": "nurture_tribute_2x1.jpg",
-                "size": 938183,
+                "size": 938624,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/d584ec0fcb105e5d6efe66fb15e386ea/d3ebd664",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/77427c4d7d09ad41e43375daf6f707c3/0464e214",
                         "width": 72,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/8186e76c8ca272968bc3921d80765694/8402f55e",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/b07ed1ed3add96d63faf779c87cb33da/6aac1818",
                         "width": 1024,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/51258e57c9a68f6b07608b8c1fc92bda/e9ed599d",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/1b66845b14d13204541305ba77ba4d04/786b9c54",
                         "width": 3000,
                         "height": 3000
                     }
                 }
             }
         ],
+        "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_1x1.jpg",
         "post_visible": true
     }
 }
