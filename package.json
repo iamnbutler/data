@@ -12,8 +12,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "airtable-to-json": "./_scripts/airtable-to-json.js",
-    "airtable-to-md": "./_scripts/airtable-to-md.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
