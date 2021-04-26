@@ -19,13 +19,10 @@ const base = new Airtable({
   apiKey: process.env.KEY,
 }).base(process.env.BASE);
 
-// const status = ["Published", "Archive"]; // Add your status tags you want to publish here (i.e "posted", "archived".) This requires a field called "status" that returns an array of tags.
-
 base("Posts")
   .select({
     maxRecords: 999, // Max records to call
     view: "Post Grid",
-    // filterByFormula: "NOT({title} = '')" // Use this and status to filter out records that are not published
     sort: [
       {
         field: "date",
@@ -39,50 +36,55 @@ base("Posts")
         // Define variables
         const title = record.get("title");
         const date = record.get("date");
-        // Create record slug
-        let slug = slugify_string(record, title, date);
+        const status = record.get("status");
+        console.log(status);
 
-        const json = JSON.stringify(record, null, 4);
+        if (status === 'published') {
+          // Create record slug
+          let slug = slugify_string(record, title, date);
 
-        fs.writeFile("./post/json/" + slug + ".json", json, (err) => {
-          if (err) {
-            throw err;
-          }
-          // console.log("JSON data is saved.");
-        });
+          const json = JSON.stringify(record, null, 4);
 
-        const p = record.fields;
-        let frontMatter = {
-          // This is what the output of your md or yaml file will contain
-          post_visible: p.post_visible,
-          status: p.status,
+          fs.writeFile("./post/json/" + slug + ".json", json, (err) => {
+            if (err) {
+              throw err;
+            }
+            // console.log("JSON data is saved.");
+          });
 
-          title: title,
-          subtitle: p.subtitle,
-          slug: slug,
-          custom_slug: p.custom_slug,
+          const p = record.fields;
+          let frontMatter = {
+            // This is what the output of your md or yaml file will contain
+            post_visible: p.post_visible,
+            status: p.status,
 
-          date: date,
-          date_updated: p.date_updated,
-          author: p.author,
+            title: title,
+            subtitle: p.subtitle,
+            slug: slug,
+            custom_slug: p.custom_slug,
 
-          primary_tag: p.primary_tag,
-          tags: p.tags,
+            date: date,
+            date_updated: p.date_updated,
+            author: p.author,
 
-          summary: p.summary,
-          edit: p.edit,
+            primary_tag: p.primary_tag,
+            tags: p.tags,
 
-          featured: p.featured,
-          show_thumbnail: p.show_thumbnail,
-          thumbnail: p.thumbnail_url,
-          prefer_wide_thumbnail: p.prefer_wide_thumbnail,
-          wide_thumbnail: p.wide_thumbnail_url,
-          hero_image: p.hero_image_url,
-          post_images: p.post_images,
-        };
+            summary: p.summary,
+            edit: p.edit,
 
-        // Export record as mm-yyyy-slug.md
-        export_md(record, slug, frontMatter);
+            featured: p.featured,
+            show_thumbnail: p.show_thumbnail,
+            thumbnail: p.thumbnail_url,
+            prefer_wide_thumbnail: p.prefer_wide_thumbnail,
+            wide_thumbnail: p.wide_thumbnail_url,
+            hero_image: p.hero_image_url,
+            post_images: p.post_images,
+          };
+
+          // Export record as mm-yyyy-slug.md
+          export_md(record, slug, frontMatter);
+        }
       });
 
       // To fetch the next page of records, call `fetchNextPage`.
