@@ -28,7 +28,6 @@ base("Work")
         const title = record.get("title");
         const date = record.get("date");
         const status = record.get("status");
-        console.log(status);
 
         if (status === 'published') {
           // Create record slug
@@ -110,7 +109,7 @@ function export_md(record, slug, frontMatter) {
 
   // Format our YFM (YAML Front Matter) + Markdown for output.
   fs.writeFileSync(
-    "./post/md/" + slug + ".md",
+    "./work/md/" + slug + ".md",
     "---\n" + yamlStr + "---\n" + markdownOutput,
     "utf8"
   );
