@@ -40,7 +40,6 @@ base("Posts")
             if (err) {
               throw err;
             }
-            // console.log("JSON data is saved.");
           });
 
           const p = record.fields;
