@@ -1,12 +1,3 @@
-// TODO:
-// ✓ Set up dotenv for API keys + base ID
-// ✓ Grab data from Airtable base (JS API)
-// ✓ Itterate through each record
-//   - match the record to a list of accepted statuses (i.e. "published", "archived")
-//   ✓ create a slug from slugifying the title + date
-//   ✓ organize fields into frontmatter and content
-//   ✓ save each record as a md or yaml file
-
 const dotenv = require("dotenv").config();
 const yaml = require("js-yaml");
 const slugify = require("slugify");
