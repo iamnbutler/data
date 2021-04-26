@@ -107,7 +107,8 @@
                 }
             ],
             "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/desk_guide_1x1.jpg",
-            "post_visible": true
+            "post_visible": true,
+            "prefer_wide_thumbnail": true
         },
         "createdTime": "2021-04-10T22:39:42.000Z"
     },
@@ -206,6 +207,7 @@
             }
         ],
         "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/desk_guide_1x1.jpg",
-        "post_visible": true
+        "post_visible": true,
+        "prefer_wide_thumbnail": true
     }
 }

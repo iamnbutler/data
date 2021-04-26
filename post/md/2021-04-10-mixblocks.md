@@ -18,6 +18,7 @@ summary: >-
 featured: true
 show_thumbnail: true
 thumbnail: https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_1x1.jpg
+prefer_wide_thumbnail: true
 wide_thumbnail: https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_1x2.jpg
 hero_image: https://storage.googleapis.com/yaminateo-image-bucket/img/mixblocks_hero.jpg
 ---

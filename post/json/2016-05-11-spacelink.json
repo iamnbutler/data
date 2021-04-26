@@ -27,7 +27,8 @@
                 "project",
                 "art"
             ],
-            "post_visible": true
+            "post_visible": true,
+            "prefer_wide_thumbnail": true
         },
         "createdTime": "2021-04-10T22:39:42.000Z"
     },
@@ -46,6 +47,7 @@
             "project",
             "art"
         ],
-        "post_visible": true
+        "post_visible": true,
+        "prefer_wide_thumbnail": true
     }
 }
