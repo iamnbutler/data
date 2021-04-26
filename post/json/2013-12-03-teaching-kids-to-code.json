@@ -14,7 +14,7 @@
         "id": "reccECjmnHi9efM8V",
         "fields": {
             "custom_slug": "teaching-kids-to-code",
-            "status": "draft",
+            "status": "published",
             "title": "Teaching Kids to Code",
             "author": "Nate Butler",
             "subtitle": "Investing in our future and helping elevate those around us.",
@@ -32,7 +32,7 @@
     },
     "fields": {
         "custom_slug": "teaching-kids-to-code",
-        "status": "draft",
+        "status": "published",
         "title": "Teaching Kids to Code",
         "author": "Nate Butler",
         "subtitle": "Investing in our future and helping elevate those around us.",

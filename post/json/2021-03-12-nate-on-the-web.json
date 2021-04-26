@@ -14,7 +14,7 @@
         "id": "recADrViwODQrkANH",
         "fields": {
             "custom_slug": "the-many-faces-of-a-website",
-            "status": "draft",
+            "status": "published",
             "title": "Nate on the Web",
             "summary": "test2\n",
             "author": "Nate Butler",
@@ -115,7 +115,7 @@
     },
     "fields": {
         "custom_slug": "the-many-faces-of-a-website",
-        "status": "draft",
+        "status": "published",
         "title": "Nate on the Web",
         "summary": "test2\n",
         "author": "Nate Butler",

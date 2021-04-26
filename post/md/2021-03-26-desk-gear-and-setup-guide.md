@@ -1,6 +1,6 @@
 ---
 post_visible: true
-status: draft
+status: published
 title: Desk Gear & Setup Guide
 subtitle: >-
   Everyone has been spending more working from home recently – Here are some
@@ -15,7 +15,6 @@ tags:
 featured: true
 show_thumbnail: true
 thumbnail: https://storage.googleapis.com/yaminateo-image-bucket/img/desk_guide_1x1.jpg
-prefer_wide_thumbnail: true
 wide_thumbnail: https://storage.googleapis.com/yaminateo-image-bucket/img/desk_guide_2x1.jpg
 hero_image: https://storage.googleapis.com/yaminateo-image-bucket/img/desk_guide_hero.jpg
 ---

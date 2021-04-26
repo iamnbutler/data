@@ -14,7 +14,7 @@
         "id": "recW7VrTyLLG3YLss",
         "fields": {
             "custom_slug": "spacelink",
-            "status": "draft",
+            "status": "published",
             "title": "Spacelink",
             "author": "Nate Butler",
             "subtitle": "An exploration of infinite space and communication.",
@@ -33,7 +33,7 @@
     },
     "fields": {
         "custom_slug": "spacelink",
-        "status": "draft",
+        "status": "published",
         "title": "Spacelink",
         "author": "Nate Butler",
         "subtitle": "An exploration of infinite space and communication.",

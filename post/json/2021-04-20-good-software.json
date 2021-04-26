@@ -1,0 +1,43 @@
+{
+    "_table": {
+        "_base": {
+            "_airtable": {
+                "requestTimeout": 300000
+            },
+            "_id": "appilsCAnAoIUEY8R"
+        },
+        "id": null,
+        "name": "Posts"
+    },
+    "id": "rec5RrOPePgiA9gvG",
+    "_rawJson": {
+        "id": "rec5RrOPePgiA9gvG",
+        "fields": {
+            "custom_slug": "good-software",
+            "status": "planned",
+            "title": "Good Software",
+            "author": "Nate Butler",
+            "primary_tag": "list",
+            "date": "2021-04-20",
+            "body": "## Mac Apps\n\n- https://matthewpalmer.net/rocket/\n- https://matthewpalmer.net/vanilla/",
+            "tags": [
+                "list"
+            ],
+            "post_visible": true
+        },
+        "createdTime": "2021-04-21T04:07:35.000Z"
+    },
+    "fields": {
+        "custom_slug": "good-software",
+        "status": "planned",
+        "title": "Good Software",
+        "author": "Nate Butler",
+        "primary_tag": "list",
+        "date": "2021-04-20",
+        "body": "## Mac Apps\n\n- https://matthewpalmer.net/rocket/\n- https://matthewpalmer.net/vanilla/",
+        "tags": [
+            "list"
+        ],
+        "post_visible": true
+    }
+}

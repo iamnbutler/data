@@ -13,8 +13,10 @@
     "_rawJson": {
         "id": "rec9149Im3fiXyORa",
         "fields": {
-            "status": "draft",
+            "custom_slug": "nurture-tribute",
+            "status": "published",
             "title": "nurture tribute",
+            "author": "Nate Butler",
             "hero_image": [
                 {
                     "id": "att1FWPbK6AkelJm5",
@@ -68,8 +70,10 @@
                 }
             ],
             "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_2x1.jpg",
+            "subtitle": "A few pieces inspired by Porter Robinson's Nurture.",
             "primary_tag": "art",
             "show_thumbnail": true,
+            "featured": true,
             "date": "2021-04-13",
             "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_hero.jpg",
             "tags": [
@@ -107,8 +111,10 @@
         "createdTime": "2021-04-13T17:14:33.000Z"
     },
     "fields": {
-        "status": "draft",
+        "custom_slug": "nurture-tribute",
+        "status": "published",
         "title": "nurture tribute",
+        "author": "Nate Butler",
         "hero_image": [
             {
                 "id": "att1FWPbK6AkelJm5",
@@ -162,8 +168,10 @@
             }
         ],
         "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_2x1.jpg",
+        "subtitle": "A few pieces inspired by Porter Robinson's Nurture.",
         "primary_tag": "art",
         "show_thumbnail": true,
+        "featured": true,
         "date": "2021-04-13",
         "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_hero.jpg",
         "tags": [

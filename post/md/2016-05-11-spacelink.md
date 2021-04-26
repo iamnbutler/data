@@ -1,6 +1,6 @@
 ---
 post_visible: true
-status: draft
+status: published
 title: Spacelink
 subtitle: An exploration of infinite space and communication.
 slug: 2016-05-11-spacelink

@@ -1,6 +1,6 @@
 ---
 post_visible: true
-status: draft
+status: published
 title: Design Resources
 subtitle: Design readings & resources I've found valuable.
 slug: 2021-03-08-design-resources

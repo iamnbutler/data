@@ -1,6 +1,6 @@
 ---
 post_visible: true
-status: draft
+status: published
 title: Nate on the Web
 subtitle: A look back at all the versions and explored directions for my personal site.
 slug: 2021-03-12-nate-on-the-web

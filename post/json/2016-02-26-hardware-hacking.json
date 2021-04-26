@@ -14,7 +14,7 @@
         "id": "rec3aeDLoA1Wm4aMQ",
         "fields": {
             "custom_slug": "hardware-hacking",
-            "status": "draft",
+            "status": "published",
             "title": "Hardware Hacking",
             "author": "Nate Butler",
             "subtitle": "Building robots and games with Arduino & Pi.",
@@ -32,7 +32,7 @@
     },
     "fields": {
         "custom_slug": "hardware-hacking",
-        "status": "draft",
+        "status": "published",
         "title": "Hardware Hacking",
         "author": "Nate Butler",
         "subtitle": "Building robots and games with Arduino & Pi.",
