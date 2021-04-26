@@ -45,7 +45,7 @@ base("Work")
 
             date: date,
 
-            tags: p.tags,
+            roles: p.roles,
 
             summary: p.summary,
 
