@@ -2,8 +2,9 @@
   "version": "0.1.0",
   "configurations": [
     {
+      "type": "node",
       "name": "Export Work",
-      "program": "${workspaceFolder}/wor/_build/export-work.js",
+      "program": "${workspaceFolder}/work/_build/export-work.js",
       "request": "launch",
       "skipFiles": [
         "<node_internals>/**"
