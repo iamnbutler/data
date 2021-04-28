@@ -17,18 +17,99 @@
             "status": "published",
             "title": "Spacelink",
             "author": "Nate Butler",
+            "hero_image": [
+                {
+                    "id": "attMjfXUehZqsI7an",
+                    "url": "https://dl.airtable.com/.attachments/4882d9b22b53fe3cffc55ebc1f96630d/72c71367/spacelink-hero.jpg",
+                    "filename": "spacelink-hero.jpg",
+                    "size": 1148004,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/aa731b31fcaaefbb768656b9ff45c8e6/59bf75f9",
+                            "width": 72,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/ba6931f91841419532a887a92e34c346/b9c1c888",
+                            "width": 1024,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/c5baa132e31f603453af85b4d1056754/ffd7b3b4",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "attIQGrjmPWtIsl7h",
+                    "url": "https://dl.airtable.com/.attachments/e557b7c780719c4b03ef38305e382f61/147f6f71/spacelink-1x1.jpg",
+                    "filename": "spacelink-1x1.jpg",
+                    "size": 428748,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/166b559c7d05b2c69ddb746c8a248ae4/c52b5044",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/341e686901acaa9a09f09545bf63e8ca/7964487a",
+                            "width": 512,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/c143e5b98d198af6aff6897c0c1afdb1/5a48b24c",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/spacelink-2x1.jpg",
             "subtitle": "An exploration of infinite space and communication.",
             "primary_tag": "project",
             "show_thumbnail": true,
             "featured": true,
+            "prefer_wide_thumbnail": true,
             "date": "2016-05-11",
             "body": "<p>This project is an exploration of infinite space and communication. The ideas of space, space travel and communication in space have always fascinated me. As this is an art project I wanted to take a personal approach, exploring a topic that is important to me. The goal of the assignment is to use a dataset to create art. I struggled to find a dataset that would allow me to do exactly what I wanted, so I decided to use the data I found as a creative medium rather than to use it as a direction for my narrative.</p><p>The visual style of the piece was inspired by old technology. The dataset is from 1995, as well as the “glory days” of NASA are in the past as well. The movement of the map is designed after tape-based data storage, where data would be recorded as a tape was fed through the system.</p><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:1600px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ded44260c2c3828b64515_22d86625220422e9b44619000db9249e9e79e163-screenshot-2016-02-19-13.54.12.8b6ff64a31790288f1b061ccc4fe027a54591f84.png\" width=\"auto\" height=\"auto\" loading=\"auto\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:1600px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ded4dc2649aac95b09b69_a05cf50bbb7224a9f0d84f9e93b1e8963cee3196-screenshot-2016-02-19-13.53.28.8b6ff64a31790288f1b061ccc4fe027a54591f84.png\" width=\"auto\" height=\"auto\" loading=\"auto\"></div></figure>",
+            "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/spacelink-hero.jpg",
             "tags": [
                 "project",
                 "art"
             ],
-            "post_visible": true,
-            "prefer_wide_thumbnail": true
+            "wide_thumbnail": [
+                {
+                    "id": "attDAUPFSr0uwTQyG",
+                    "url": "https://dl.airtable.com/.attachments/e44cd4a61ef79d3fb4117ab7b8db832d/75c84d76/spacelink-2x1.jpg",
+                    "filename": "spacelink-2x1.jpg",
+                    "size": 1148004,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/b501a7a864f7bc860fcab702d0eaabd7/9168bc59",
+                            "width": 72,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/6697f860d26b3bcd72fe3e30badfa557/a9f03171",
+                            "width": 1024,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/deb94ca39eb80c1b4a4ece665231cdbe/608be2b3",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/spacelink-1x1.jpg",
+            "post_visible": true
         },
         "createdTime": "2021-04-10T22:39:42.000Z"
     },
@@ -37,17 +118,98 @@
         "status": "published",
         "title": "Spacelink",
         "author": "Nate Butler",
+        "hero_image": [
+            {
+                "id": "attMjfXUehZqsI7an",
+                "url": "https://dl.airtable.com/.attachments/4882d9b22b53fe3cffc55ebc1f96630d/72c71367/spacelink-hero.jpg",
+                "filename": "spacelink-hero.jpg",
+                "size": 1148004,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/aa731b31fcaaefbb768656b9ff45c8e6/59bf75f9",
+                        "width": 72,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/ba6931f91841419532a887a92e34c346/b9c1c888",
+                        "width": 1024,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/c5baa132e31f603453af85b4d1056754/ffd7b3b4",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "thumbnail": [
+            {
+                "id": "attIQGrjmPWtIsl7h",
+                "url": "https://dl.airtable.com/.attachments/e557b7c780719c4b03ef38305e382f61/147f6f71/spacelink-1x1.jpg",
+                "filename": "spacelink-1x1.jpg",
+                "size": 428748,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/166b559c7d05b2c69ddb746c8a248ae4/c52b5044",
+                        "width": 36,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/341e686901acaa9a09f09545bf63e8ca/7964487a",
+                        "width": 512,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/c143e5b98d198af6aff6897c0c1afdb1/5a48b24c",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/spacelink-2x1.jpg",
         "subtitle": "An exploration of infinite space and communication.",
         "primary_tag": "project",
         "show_thumbnail": true,
         "featured": true,
+        "prefer_wide_thumbnail": true,
         "date": "2016-05-11",
         "body": "<p>This project is an exploration of infinite space and communication. The ideas of space, space travel and communication in space have always fascinated me. As this is an art project I wanted to take a personal approach, exploring a topic that is important to me. The goal of the assignment is to use a dataset to create art. I struggled to find a dataset that would allow me to do exactly what I wanted, so I decided to use the data I found as a creative medium rather than to use it as a direction for my narrative.</p><p>The visual style of the piece was inspired by old technology. The dataset is from 1995, as well as the “glory days” of NASA are in the past as well. The movement of the map is designed after tape-based data storage, where data would be recorded as a tape was fed through the system.</p><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:1600px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ded44260c2c3828b64515_22d86625220422e9b44619000db9249e9e79e163-screenshot-2016-02-19-13.54.12.8b6ff64a31790288f1b061ccc4fe027a54591f84.png\" width=\"auto\" height=\"auto\" loading=\"auto\"></div></figure><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:1600px\"><div><img src=\"https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ded4dc2649aac95b09b69_a05cf50bbb7224a9f0d84f9e93b1e8963cee3196-screenshot-2016-02-19-13.53.28.8b6ff64a31790288f1b061ccc4fe027a54591f84.png\" width=\"auto\" height=\"auto\" loading=\"auto\"></div></figure>",
+        "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/spacelink-hero.jpg",
         "tags": [
             "project",
             "art"
         ],
-        "post_visible": true,
-        "prefer_wide_thumbnail": true
+        "wide_thumbnail": [
+            {
+                "id": "attDAUPFSr0uwTQyG",
+                "url": "https://dl.airtable.com/.attachments/e44cd4a61ef79d3fb4117ab7b8db832d/75c84d76/spacelink-2x1.jpg",
+                "filename": "spacelink-2x1.jpg",
+                "size": 1148004,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/b501a7a864f7bc860fcab702d0eaabd7/9168bc59",
+                        "width": 72,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/6697f860d26b3bcd72fe3e30badfa557/a9f03171",
+                        "width": 1024,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/deb94ca39eb80c1b4a4ece665231cdbe/608be2b3",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/spacelink-1x1.jpg",
+        "post_visible": true
     }
 }

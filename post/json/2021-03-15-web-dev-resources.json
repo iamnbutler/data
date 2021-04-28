@@ -15,28 +15,30 @@
         "fields": {
             "custom_slug": "web-development-resources",
             "status": "published",
+            "edit": "I'm a hobbiest myself, and I know opinions around tools and languages are strong in the dev space. These are my experiences an opinions, feel free to share yours!",
             "title": "Web Dev Resources",
+            "summary": "I tend to go back to the same articles, tools and setups over and over when writing code. Now I'm passing them on, I hope you find something interesting!",
             "author": "Nate Butler",
             "hero_image": [
                 {
-                    "id": "att0MKTox9H5zslwK",
-                    "url": "https://dl.airtable.com/.attachments/f4745de31784331352189ad32946ce4d/463ca3ac/web-dev-resources-hero-image.jpg",
-                    "filename": "web-dev-resources-hero-image.jpg",
-                    "size": 540579,
+                    "id": "attmiyLwte7gMQg5S",
+                    "url": "https://dl.airtable.com/.attachments/f9090e6c968d4f1b058cfdb31ca8de99/9c04e08b/web-dev-resources-hero.jpg",
+                    "filename": "web-dev-resources-hero.jpg",
+                    "size": 531166,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/957a2a5c1b4c8d55fed7e107080a22b1/e1c0cc0b",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/40421055881e3374a2bc513ea30207dc/84b4d643",
                             "width": 72,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/9aae170617beac37fcec5158bb3de568/d2149f81",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/215e9587ffeeee1e12784e72e55f4f68/6d184b78",
                             "width": 1024,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/1d02d693422ce20e74c29f6494dc286c/0bbe41a1",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/cede8e862b7a896c8553889979c86f0e/1db9f943",
                             "width": 3000,
                             "height": 3000
                         }
@@ -45,24 +47,24 @@
             ],
             "thumbnail": [
                 {
-                    "id": "att2jWAFdE4qerd99",
-                    "url": "https://dl.airtable.com/.attachments/ff51b62e12c4900b73b4f9a77008eb3c/4d40da9c/web-dev-resources-1x1.jpg",
+                    "id": "attG7Ux8GYD4q4dwr",
+                    "url": "https://dl.airtable.com/.attachments/b08f48577b89a2ffe1733120f7060f35/4aae6739/web-dev-resources-1x1.jpg",
                     "filename": "web-dev-resources-1x1.jpg",
-                    "size": 350481,
+                    "size": 356241,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/19611d06d1e89367bebe061bcf5dff6b/76f2ad2e",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/eb4a9d92486c7a487a55d6812e0e2901/3e1bf1b7",
                             "width": 36,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/05c7024fe4a6fe95790baa6c68942068/f3a7fff0",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/e2510ba481011a7515e9bde000378056/00cd67e5",
                             "width": 512,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/d792565e1f39381110ff4ec4dd200dab/3aa063b6",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/720814afc2d4aa484406958e54413fe1/c16499c8",
                             "width": 3000,
                             "height": 3000
                         }
@@ -75,8 +77,8 @@
             "show_thumbnail": true,
             "featured": true,
             "date": "2021-03-15",
-            "body": "<h2>CSS</h2><ul><li>Of course, the classics:&nbsp;CSSTricks' <a href=\"https://css-tricks.com/snippets/css/complete-guide-grid/\">CSS&nbsp;Grid</a> and Flexbox guides.</li><li>This hand <a href=\"https://grid.layoutit.com/\">CSS&nbsp;Grid generator</a>.</li></ul>",
-            "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/web-dev-resources-hero-image.jpg",
+            "body": "## Tools\nText editor: [VS Code](https://code.visualstudio.com/)\n\n## CSS\n\n- Of course, the classics: [CSSTricks' Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) & [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\n- In fact, pretty much [any guide](https://css-tricks.com/guides/) from [Chris](https://chriscoyier.net/) & co is great.\n- A [CSS grid](https://grid.layoutit.com/) tool (there are many!) These are super useful when trying to take the idea in your head and put it in a grid. This one is nice since you can create a codepen and modify it from there.",
+            "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/web-dev-resources-hero.jpg",
             "tags": [
                 "tip",
                 "design",
@@ -84,24 +86,24 @@
             ],
             "wide_thumbnail": [
                 {
-                    "id": "att7Rf8BuabaR5Zvv",
-                    "url": "https://dl.airtable.com/.attachments/a56657175880a42dd5eaf41248e8c87b/e410cf22/web-dev-resources-2x1.jpg",
+                    "id": "attfnjx3EBd0WXeI1",
+                    "url": "https://dl.airtable.com/.attachments/5dff8f7d44e9ef24085101694390f29d/ab665579/web-dev-resources-2x1.jpg",
                     "filename": "web-dev-resources-2x1.jpg",
-                    "size": 540414,
+                    "size": 531133,
                     "type": "image/jpeg",
                     "thumbnails": {
                         "small": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/de5375cc304b5bdcf5bd492220a061b2/465aba53",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/5f2bca72ed31d1f2d96a042189bfb7cd/83d4354c",
                             "width": 72,
                             "height": 36
                         },
                         "large": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/4c820e9915d016244281bc53207d0927/d32d4105",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/39ee509482ea4e82a62e60ec5b6f600f/bdd3f33c",
                             "width": 1024,
                             "height": 512
                         },
                         "full": {
-                            "url": "https://dl.airtable.com/.attachmentThumbnails/e594580d2d8ba1abd00b9c386e70246c/678ed925",
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/266e264cac994066045106fb67f6b8d6/da33cb1e",
                             "width": 3000,
                             "height": 3000
                         }
@@ -116,28 +118,30 @@
     "fields": {
         "custom_slug": "web-development-resources",
         "status": "published",
+        "edit": "I'm a hobbiest myself, and I know opinions around tools and languages are strong in the dev space. These are my experiences an opinions, feel free to share yours!",
         "title": "Web Dev Resources",
+        "summary": "I tend to go back to the same articles, tools and setups over and over when writing code. Now I'm passing them on, I hope you find something interesting!",
         "author": "Nate Butler",
         "hero_image": [
             {
-                "id": "att0MKTox9H5zslwK",
-                "url": "https://dl.airtable.com/.attachments/f4745de31784331352189ad32946ce4d/463ca3ac/web-dev-resources-hero-image.jpg",
-                "filename": "web-dev-resources-hero-image.jpg",
-                "size": 540579,
+                "id": "attmiyLwte7gMQg5S",
+                "url": "https://dl.airtable.com/.attachments/f9090e6c968d4f1b058cfdb31ca8de99/9c04e08b/web-dev-resources-hero.jpg",
+                "filename": "web-dev-resources-hero.jpg",
+                "size": 531166,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/957a2a5c1b4c8d55fed7e107080a22b1/e1c0cc0b",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/40421055881e3374a2bc513ea30207dc/84b4d643",
                         "width": 72,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/9aae170617beac37fcec5158bb3de568/d2149f81",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/215e9587ffeeee1e12784e72e55f4f68/6d184b78",
                         "width": 1024,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/1d02d693422ce20e74c29f6494dc286c/0bbe41a1",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/cede8e862b7a896c8553889979c86f0e/1db9f943",
                         "width": 3000,
                         "height": 3000
                     }
@@ -146,24 +150,24 @@
         ],
         "thumbnail": [
             {
-                "id": "att2jWAFdE4qerd99",
-                "url": "https://dl.airtable.com/.attachments/ff51b62e12c4900b73b4f9a77008eb3c/4d40da9c/web-dev-resources-1x1.jpg",
+                "id": "attG7Ux8GYD4q4dwr",
+                "url": "https://dl.airtable.com/.attachments/b08f48577b89a2ffe1733120f7060f35/4aae6739/web-dev-resources-1x1.jpg",
                 "filename": "web-dev-resources-1x1.jpg",
-                "size": 350481,
+                "size": 356241,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/19611d06d1e89367bebe061bcf5dff6b/76f2ad2e",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/eb4a9d92486c7a487a55d6812e0e2901/3e1bf1b7",
                         "width": 36,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/05c7024fe4a6fe95790baa6c68942068/f3a7fff0",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/e2510ba481011a7515e9bde000378056/00cd67e5",
                         "width": 512,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/d792565e1f39381110ff4ec4dd200dab/3aa063b6",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/720814afc2d4aa484406958e54413fe1/c16499c8",
                         "width": 3000,
                         "height": 3000
                     }
@@ -176,8 +180,8 @@
         "show_thumbnail": true,
         "featured": true,
         "date": "2021-03-15",
-        "body": "<h2>CSS</h2><ul><li>Of course, the classics:&nbsp;CSSTricks' <a href=\"https://css-tricks.com/snippets/css/complete-guide-grid/\">CSS&nbsp;Grid</a> and Flexbox guides.</li><li>This hand <a href=\"https://grid.layoutit.com/\">CSS&nbsp;Grid generator</a>.</li></ul>",
-        "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/web-dev-resources-hero-image.jpg",
+        "body": "## Tools\nText editor: [VS Code](https://code.visualstudio.com/)\n\n## CSS\n\n- Of course, the classics: [CSSTricks' Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) & [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\n- In fact, pretty much [any guide](https://css-tricks.com/guides/) from [Chris](https://chriscoyier.net/) & co is great.\n- A [CSS grid](https://grid.layoutit.com/) tool (there are many!) These are super useful when trying to take the idea in your head and put it in a grid. This one is nice since you can create a codepen and modify it from there.",
+        "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/web-dev-resources-hero.jpg",
         "tags": [
             "tip",
             "design",
@@ -185,24 +189,24 @@
         ],
         "wide_thumbnail": [
             {
-                "id": "att7Rf8BuabaR5Zvv",
-                "url": "https://dl.airtable.com/.attachments/a56657175880a42dd5eaf41248e8c87b/e410cf22/web-dev-resources-2x1.jpg",
+                "id": "attfnjx3EBd0WXeI1",
+                "url": "https://dl.airtable.com/.attachments/5dff8f7d44e9ef24085101694390f29d/ab665579/web-dev-resources-2x1.jpg",
                 "filename": "web-dev-resources-2x1.jpg",
-                "size": 540414,
+                "size": 531133,
                 "type": "image/jpeg",
                 "thumbnails": {
                     "small": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/de5375cc304b5bdcf5bd492220a061b2/465aba53",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/5f2bca72ed31d1f2d96a042189bfb7cd/83d4354c",
                         "width": 72,
                         "height": 36
                     },
                     "large": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/4c820e9915d016244281bc53207d0927/d32d4105",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/39ee509482ea4e82a62e60ec5b6f600f/bdd3f33c",
                         "width": 1024,
                         "height": 512
                     },
                     "full": {
-                        "url": "https://dl.airtable.com/.attachmentThumbnails/e594580d2d8ba1abd00b9c386e70246c/678ed925",
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/266e264cac994066045106fb67f6b8d6/da33cb1e",
                         "width": 3000,
                         "height": 3000
                     }

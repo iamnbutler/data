@@ -17,6 +17,59 @@
             "status": "published",
             "title": "Launching Facebook Avatars",
             "author": "Nate Butler",
+            "hero_image": [
+                {
+                    "id": "attD4ExjJWlOhDR7r",
+                    "url": "https://dl.airtable.com/.attachments/a462e7a96d958a03bb2b08ba770e224f/4797a4a0/facebook-avatars_hero.jpg",
+                    "filename": "facebook-avatars_hero.jpg",
+                    "size": 713774,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/01891461768b3837996b980b4bdedea9/7521c2e0",
+                            "width": 72,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/b09f9be0e439c6c9d8b267126a6103d9/a41f5367",
+                            "width": 1024,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/b7f21b387327948b5bca632cc54c6e41/bb6cba40",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "attpWtJMwqJFDNxqV",
+                    "url": "https://dl.airtable.com/.attachments/62d8d2f36f29a2ae5eec03af237abb15/f0e3f2dd/facebook-avatars_1x1.jpg",
+                    "filename": "facebook-avatars_1x1.jpg",
+                    "size": 386568,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/b8460110fb740ff8ef8ae7b6f39b1ff1/a8030088",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/72742d04a93b26703a98fae148099b26/7e102dc3",
+                            "width": 512,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/84d5a8ae5366916f078f1142e9a4f742/88c733bd",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/facebook-avatars_2x1.jpg",
             "subtitle": "A first step towards virtual likeness & identity for billions.",
             "primary_tag": "design",
             "show_thumbnail": true,
@@ -24,9 +77,37 @@
             "prefer_wide_thumbnail": true,
             "date": "2019-05-03",
             "body": "<p>Today we launched <a href=\"https://www.theverge.com/2019/6/3/18650685/facebook-avatar-messenger-newsfeed-bitmoji\">a test of Facebook Avatars</a> publicly! I've been working on this for a long time now. I never would have imagined the complexity and amount of difficult decisions it takes to get a system like this off the ground. We have such a long way to go towards representing the incredibly diverse and special population of the world – this is the first leg of the race, not crossing the finish line. I'm so incredibly proud of this team can't wait to see this product evolve over time.</p><p>My goal being at Facebook has always been to bring a bit of joy and fun into the world, and I hope this does that even a little for people.</p>",
+            "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/facebook-avatars_hero.jpg",
             "tags": [
                 "design"
             ],
+            "wide_thumbnail": [
+                {
+                    "id": "attTk5QEqQwwfQwer",
+                    "url": "https://dl.airtable.com/.attachments/0a6724c202aef115ad0d478b90b7c40b/26aeb735/facebook-avatars_2x1.jpg",
+                    "filename": "facebook-avatars_2x1.jpg",
+                    "size": 713710,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/d7d63e033111b5e4c18867998fb8c4c7/b428b2b1",
+                            "width": 72,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/42704f7074bb70e3a48dd42d9c2d026b/257cdc06",
+                            "width": 1024,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/edda971a30f6b7a83808183422ed7718/1c3a5bfe",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }
+            ],
+            "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/facebook-avatars_1x1.jpg",
             "post_visible": true
         },
         "createdTime": "2021-04-10T22:39:42.000Z"
@@ -36,6 +117,59 @@
         "status": "published",
         "title": "Launching Facebook Avatars",
         "author": "Nate Butler",
+        "hero_image": [
+            {
+                "id": "attD4ExjJWlOhDR7r",
+                "url": "https://dl.airtable.com/.attachments/a462e7a96d958a03bb2b08ba770e224f/4797a4a0/facebook-avatars_hero.jpg",
+                "filename": "facebook-avatars_hero.jpg",
+                "size": 713774,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/01891461768b3837996b980b4bdedea9/7521c2e0",
+                        "width": 72,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/b09f9be0e439c6c9d8b267126a6103d9/a41f5367",
+                        "width": 1024,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/b7f21b387327948b5bca632cc54c6e41/bb6cba40",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "thumbnail": [
+            {
+                "id": "attpWtJMwqJFDNxqV",
+                "url": "https://dl.airtable.com/.attachments/62d8d2f36f29a2ae5eec03af237abb15/f0e3f2dd/facebook-avatars_1x1.jpg",
+                "filename": "facebook-avatars_1x1.jpg",
+                "size": 386568,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/b8460110fb740ff8ef8ae7b6f39b1ff1/a8030088",
+                        "width": 36,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/72742d04a93b26703a98fae148099b26/7e102dc3",
+                        "width": 512,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/84d5a8ae5366916f078f1142e9a4f742/88c733bd",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "wide_thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/facebook-avatars_2x1.jpg",
         "subtitle": "A first step towards virtual likeness & identity for billions.",
         "primary_tag": "design",
         "show_thumbnail": true,
@@ -43,9 +177,37 @@
         "prefer_wide_thumbnail": true,
         "date": "2019-05-03",
         "body": "<p>Today we launched <a href=\"https://www.theverge.com/2019/6/3/18650685/facebook-avatar-messenger-newsfeed-bitmoji\">a test of Facebook Avatars</a> publicly! I've been working on this for a long time now. I never would have imagined the complexity and amount of difficult decisions it takes to get a system like this off the ground. We have such a long way to go towards representing the incredibly diverse and special population of the world – this is the first leg of the race, not crossing the finish line. I'm so incredibly proud of this team can't wait to see this product evolve over time.</p><p>My goal being at Facebook has always been to bring a bit of joy and fun into the world, and I hope this does that even a little for people.</p>",
+        "hero_image_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/facebook-avatars_hero.jpg",
         "tags": [
             "design"
         ],
+        "wide_thumbnail": [
+            {
+                "id": "attTk5QEqQwwfQwer",
+                "url": "https://dl.airtable.com/.attachments/0a6724c202aef115ad0d478b90b7c40b/26aeb735/facebook-avatars_2x1.jpg",
+                "filename": "facebook-avatars_2x1.jpg",
+                "size": 713710,
+                "type": "image/jpeg",
+                "thumbnails": {
+                    "small": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/d7d63e033111b5e4c18867998fb8c4c7/b428b2b1",
+                        "width": 72,
+                        "height": 36
+                    },
+                    "large": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/42704f7074bb70e3a48dd42d9c2d026b/257cdc06",
+                        "width": 1024,
+                        "height": 512
+                    },
+                    "full": {
+                        "url": "https://dl.airtable.com/.attachmentThumbnails/edda971a30f6b7a83808183422ed7718/1c3a5bfe",
+                        "width": 3000,
+                        "height": 3000
+                    }
+                }
+            }
+        ],
+        "thumbnail_url": "https://storage.googleapis.com/yaminateo-image-bucket/img/facebook-avatars_1x1.jpg",
         "post_visible": true
     }
 }
