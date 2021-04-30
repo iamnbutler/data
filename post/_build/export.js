@@ -113,7 +113,7 @@ function export_md(record, slug, frontMatter) {
 
   // Format our YFM (YAML Front Matter) + Markdown for output.
   fs.writeFileSync(
-    "./post/md/" + slug + ".md",
+    "./post/" + slug + ".md",
     "---\n" + yamlStr + "---\n" + markdownOutput,
     "utf8"
   );
