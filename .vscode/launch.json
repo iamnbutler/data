@@ -4,7 +4,7 @@
     {
       "type": "node",
       "name": "Export Work",
-      "program": "${workspaceFolder}/work/_build/export-work.js",
+      "program": "${workspaceFolder}/work/_build/export.js",
       "request": "launch",
       "skipFiles": [
         "<node_internals>/**"
@@ -15,7 +15,7 @@
       "request": "launch",
       "name": "Export Posts",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/post/_build/export-posts.js"
+      "program": "${workspaceFolder}/post/_build/export.js"
     }
   ]
 }

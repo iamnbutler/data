@@ -28,7 +28,6 @@ base("Posts")
         const title = record.get("title");
         const date = record.get("date");
         const status = record.get("status");
-        console.log(status);
 
         if (status === 'published') {
           // Create record slug
