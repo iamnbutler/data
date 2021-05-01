@@ -35,12 +35,6 @@ base("Posts")
 
           const json = JSON.stringify(record, null, 4);
 
-          fs.writeFile("./post/json/" + slug + ".json", json, (err) => {
-            if (err) {
-              throw err;
-            }
-          });
-
           const p = record.fields;
           let frontMatter = {
             // This is what the output of your md or yaml file will contain
