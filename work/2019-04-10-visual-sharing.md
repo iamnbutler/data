@@ -5,7 +5,9 @@ subtitle: In an increasingly visual feed, how can we help people level up their 
 slug: 2019-04-10-visual-sharing
 custom_slug: facebook-visual-sharing
 date: '2019-04-10'
-roles:
+company: Facebook
+section: Feed Surface
+tags:
   - Visual Design
   - Prototyping
 role: Designing & prototyping product directions.

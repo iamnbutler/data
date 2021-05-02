@@ -5,7 +5,9 @@ subtitle: Bringing Facebook pages to the web.
 slug: 2015-03-12-facebook-plugins
 custom_slug: facebook-social-plugins
 date: '2015-03-12'
-roles:
+company: Facebook
+section: Developer Experience
+tags:
   - Product Thinking
   - Prototyping
 role: Protyping & product design.

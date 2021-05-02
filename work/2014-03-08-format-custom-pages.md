@@ -5,7 +5,8 @@ subtitle: Unlocking custom content for creatives on Format.
 slug: 2014-03-08-format-custom-pages
 custom_slug: format-custom-pages
 date: '2014-03-08'
-roles:
+company: Format
+tags:
   - Development
   - Product Thinking
 role: Product & vision design, front-end development.
