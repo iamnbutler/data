@@ -47,7 +47,7 @@ base("Work")
 
             company: p.company,
             section: p.section,
-            tags: p.roles,
+            tags: p.tags,
 
             summary: p.summary,
 
