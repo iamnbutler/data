@@ -45,7 +45,9 @@ base("Work")
 
             date: date,
 
-            roles: p.roles,
+            company: p.company,
+            section: p.section,
+            tags: p.roles,
 
             summary: p.summary,
 
@@ -61,10 +63,8 @@ base("Work")
 
             show_thumbnail: p.show_thumbnail,
             thumbnail: p.thumbnail_url,
-            prefer_wide_thumbnail: p.prefer_wide_thumbnail,
             wide_thumbnail: p.wide_thumbnail_url,
             hero_image: p.hero_image_url,
-            post_images: p.post_images,
           };
 
           // Export record as mm-yyyy-slug.md
