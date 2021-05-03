@@ -8,6 +8,7 @@ date: '2012-04-23'
 company: YSDN
 tags:
   - Development
+summary: Add a summary
 role: Front & back-end development.
 show_thumbnail: true
 ---

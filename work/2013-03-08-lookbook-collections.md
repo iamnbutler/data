@@ -9,6 +9,7 @@ company: Lookbook
 tags:
   - Product Thinking
   - Visual Design
+summary: Add a summary
 role: Exploration, prototyping in code.
 link_one: https://lookbook.nu/collections
 show_thumbnail: true

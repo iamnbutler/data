@@ -9,6 +9,7 @@ company: Format
 tags:
   - Development
   - Product Thinking
+summary: Add a summary
 role: Product & vision design, front-end development.
 show_thumbnail: true
 ---

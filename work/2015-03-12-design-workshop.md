@@ -28,6 +28,10 @@ wrapup: >-
   experienced through the link below. Photography credit: Unsplash
 link_one: http://nate.jp/cuuubic
 show_thumbnail: true
+thumbnail: >-
+  https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/design_workshop_1x1.png
+wide_thumbnail: >-
+  https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/design_workshop_2x1.png
 ---
 ### Learning to Make
 
