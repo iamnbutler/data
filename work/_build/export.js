@@ -59,9 +59,9 @@ base("Work")
             outcome: p.outcome,
 
             link_one: p.link_one,
-            link_one_text: p.link_one_text,
+            link_one_title: p.link_one_title,
             link_two: p.link_two,
-            link_two_text: p.link_two_text,
+            link_two_title: p.link_two_title,
 
             show_thumbnail: p.show_thumbnail,
             thumbnail: p.thumbnail_url,
