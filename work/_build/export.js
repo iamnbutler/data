@@ -59,10 +59,13 @@ base("Work")
             outcome: p.outcome,
 
             link_one: p.link_one,
+            link_one_text: p.link_one_text,
             link_two: p.link_two,
+            link_two_text: p.link_two_text,
 
             show_thumbnail: p.show_thumbnail,
             thumbnail: p.thumbnail_url,
+            prefer_wide_thumbnail: p.prefer_wide_thumbnail,
             wide_thumbnail: p.wide_thumbnail_url,
             hero_image: p.hero_image_url,
           };
