@@ -15,7 +15,8 @@ summary: >-
   of a desire to make without a problem, to make for the sake of making. The
   illustrations began by exploring the ideas of lost worlds and alternate
   realities but as the project continued it began to gradually in change form.
-goal: Explore & Learn
+goal: |
+  Explore & Learn
 team: Just me!
 wrapup: >-
   The project was designed explore the process of making. Whether making through

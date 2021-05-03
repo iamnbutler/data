@@ -17,7 +17,7 @@ summary: >-
   The Intermission is a celebration of the graduating class of 2016; it is a
   reflection on our past four years and our hopes for the future.
 role: Project lead, front-end development of the site.
-goal: >-
+goal: >
   Design & launch a web presence that 1) showcased the work of graduating class
   and 2) provided details for the physical grad show event.
 team: 2 design, 2 frontend, 1 backend
