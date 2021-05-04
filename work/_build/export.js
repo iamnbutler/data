@@ -47,7 +47,7 @@ base("Work")
 
             company: p.company,
             section: p.section,
-            tags: p.tags,
+            project_type: p.project_type,
 
             summary: p.summary,
 
