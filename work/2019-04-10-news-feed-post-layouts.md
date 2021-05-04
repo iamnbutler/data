@@ -7,7 +7,7 @@ custom_slug: facebook-visual-sharing
 date: '2019-04-10'
 company: Facebook
 section: Feed Surface
-tags:
+project_type:
   - Visual Design
   - Prototyping
 summary: Add a summary

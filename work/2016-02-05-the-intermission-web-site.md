@@ -6,7 +6,7 @@ slug: 2016-02-05-the-intermission-web-site
 custom_slug: ysdn-the-intermission
 date: '2016-02-05'
 company: YSDN
-tags:
+project_type:
   - Project Lead
   - Web Design
   - Development

@@ -7,7 +7,7 @@ custom_slug: facebook-internal-productivity-design
 date: '2020-04-13'
 company: Facebook
 section: Productivity Design
-tags:
+project_type:
   - Design Systems
   - Product Thinking
   - Cross-functional

@@ -7,7 +7,7 @@ custom_slug: facebook-news-feed-design
 date: '2016-03-15'
 company: Facebook
 section: News Feed
-tags:
+project_type:
   - Visual Design
   - Product Thinking
   - Prototyping

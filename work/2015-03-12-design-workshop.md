@@ -6,7 +6,7 @@ slug: 2015-03-12-design-workshop
 custom_slug: ydsn-design-workshop
 date: '2015-03-12'
 company: YSDN
-tags:
+project_type:
   - Art Direction
   - Development
 summary: >-

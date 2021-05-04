@@ -7,7 +7,7 @@ custom_slug: facebook-visual-text-posts
 date: '2017-03-26'
 company: Facebook
 section: News Feed
-tags:
+project_type:
   - Visual Design
   - Product Thinking
 summary: Add a summary

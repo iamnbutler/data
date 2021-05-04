@@ -7,7 +7,7 @@ custom_slug: facebook-avatars
 date: '2019-03-31'
 company: Facebook
 section: Facebook Avatars
-tags:
+project_type:
   - Vision & Strategy
   - Team Design
   - Cross-functional

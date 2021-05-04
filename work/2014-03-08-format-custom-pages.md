@@ -6,7 +6,7 @@ slug: 2014-03-08-format-custom-pages
 custom_slug: format-custom-pages
 date: '2014-03-08'
 company: Format
-tags:
+project_type:
   - Development
   - Product Thinking
 summary: Add a summary

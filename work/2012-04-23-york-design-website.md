@@ -6,7 +6,7 @@ slug: 2012-04-23-york-design-website
 custom_slug: ysdn-design-website
 date: '2012-04-23'
 company: YSDN
-tags:
+project_type:
   - Development
 summary: Add a summary
 role: Front & back-end development.
