@@ -26,6 +26,8 @@ thumbnail: >-
   https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/origami-json-1x1.jpg
 wide_thumbnail: >-
   https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/origami-json-2x1.jpg
+hero_image: >-
+  https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/origami-json-hero-4x1.jpg
 ---
 When you are building a big prototype with lots of data (comments, images, post content, etc) things can change pretty fast. New designs come in, or a stakeholder wants to see some *small* change (spoiler: it isn't small) having a way to update that data on the fly and have it propagate in your prototype is a lifesaver.
 
