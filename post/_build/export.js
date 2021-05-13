@@ -53,6 +53,9 @@ base("Posts")
             primary_tag: p.primary_tag,
             tags: p.tags,
 
+            series: p.series_family,
+            series_number: p.series_chapter,
+
             summary: p.summary,
             edit: p.edit,
 
