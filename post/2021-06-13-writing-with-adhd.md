@@ -125,7 +125,7 @@ Post a piece of writing online? "People will pick apart every statement.", "Don'
 
 When I worked at Facebook, one thing I always struggled with is there is this idea of as you become a more senior designer you build more of a public following, and begin to have an impact on our industry. This was always crippling for me to even think about, because of the fear of doing or saying something wrong and then being outcast.
 
-The feeling of being misunderstood to and ADHD person is TERRIFYING. I still have a thousand minor slights or social awkwardness I've committed that I think about weekly, and am just begging in my head to be able to go back and explain or correct.
+The feeling of being misunderstood to and ADHD person is TERRIFYING. I still have a thousand minor slights or social awkwardnesses I've committed that I think about weekly, and am just begging in my head to be able to go back and explain or correct.
 
 ### Wrapping Up
 
