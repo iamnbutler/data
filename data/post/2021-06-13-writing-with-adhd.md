@@ -1,6 +1,7 @@
 ---
 uuid: 452d4263-60df-4c91-800c-f47431e6b3f2
 title: Writing with ADHD
+status: published
 date: 2021-06-13
 edit-note: This post is a reflection on Geraint Evans' "[This is how an ADHD
   person actually writes.](https://www.geraint.works/post/adhd-writing-styles)"
