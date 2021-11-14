@@ -11,11 +11,16 @@ collections:
     folder: "data/post" # The path to the folder where the documents are stored
     preview_path: "data/post/{{filename}}.{{extension}}"
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{fields.date}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "UUID", name: "uuid", widget: "uuid"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - label: "Publish Date"
+        name: "date"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        widget: "datetime"
+        picker_utc: true
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Excerpt", name: "excerpt", widget: "markdown", required: false}
       - {label: "Creator", name: "creator", widget: "string", default: "Nate Butler"}
