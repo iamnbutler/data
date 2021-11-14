@@ -19,6 +19,7 @@ collections:
         name: "date"
         date_format: "YYYY-MM-DD"
         time_format: false
+        format: "YYYY-MM-DD"
         widget: "datetime"
         picker_utc: true
       - {label: "Body", name: "body", widget: "markdown"}
