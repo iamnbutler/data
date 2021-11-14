@@ -1,6 +1,7 @@
 ---
 uuid: 91370aaa-68b8-4756-a3d7-2d1c84b00cd8
 title: Picking Your Home Office Tech
+status: published
 date: 2021-11-14
 excerpt: Recommendations for hardware, peripherals, and other desk setup stuff
   from years of buying and trying far too many things!
