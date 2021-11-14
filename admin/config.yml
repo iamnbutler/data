@@ -20,6 +20,7 @@ collections:
           name: "status",
           widget: "select",
           options: ["draft", "published", "archived"],
+          default: "draft"
         }
       - {
           label: "Publish Date",
