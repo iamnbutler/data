@@ -1,6 +1,7 @@
 ---
 uuid: 1b855fc1-7eec-4b35-b711-b035b8458c5d
 title: Vision Design
+status: published
 date: 2021-03-08T22:42:20.428Z
 excerpt: I've been thinking about this over the past few years. The type of work
   I like to do and excel attends to fall into a very specific portion of a
