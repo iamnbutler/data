@@ -1,12 +1,15 @@
+# All configuration options here: https://www.netlifycms.org/docs/configuration-options/
 backend:
   name: git-gateway
   branch: add-cms
-publish_mode: editorial_workflow
 media_folder: "assets/images/"
+display_url: https://github.com/iamnbutler/data
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "_posts/blog" # The path to the folder where the documents are stored
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    label_singular: "Post"
+    folder: "data/post" # The path to the folder where the documents are stored
+    preview_path: "data/post/{{filename}}.{{extension}}"
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -14,7 +17,10 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Creator", name: "creator", widget: "string"}
-      - {label: "Custom Slug", name: "custom-slug", widget: "string"}
+      - {label: "Custom Slug", name: "custom-slug", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
+slug:
+  encoding: "ascii"
+  clean_accents: true
       
