@@ -22,6 +22,7 @@ collections:
         format: "YYYY-MM-DD"
         widget: "datetime"
         picker_utc: true
+      - {label: "Edit Note", name: "edit-note", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Excerpt", name: "excerpt", widget: "markdown", required: false}
       - {label: "Creator", name: "creator", widget: "string", default: "Nate Butler"}
