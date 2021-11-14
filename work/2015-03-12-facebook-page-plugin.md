@@ -81,14 +81,14 @@ There were some major problems with the like box. It has been the same for a ver
 
 The Page Plugin lets developers Embed portions of their Facebook Page onto their website. We decided to rename the plugin rather than create a new version of the like box to clearly show that this is a new direction that we are dedicated to taking into the future.
 
-Our goals were to clarify the intent of the plugin (pull page content from FB, direct users to their FB page), visually improve what already exists, and to lay the framework for plugin extension going forward. That means being able to add cards to share more types of content from pages in new ways. 
+Our goals were to clarify the intent of the plugin (pull page content from FB, direct users to their FB page), visually improve what already exists, and to lay the framework for plugin extension going forward. That means being able to add cards to share more types of content from pages in new ways.
 ## The Process
 
 We validated with the pages team to verify that the plugin was beneficial to them and to page owners to reaffirm our goals.
 
 [Insert screenshot]
 
-The MVP page plugin. An interesting set of considerations we have to make when designing plugins for developers are that they will use our product in a large variety of settings. Each page plugin can look different based on the environment it is in and the configuration used. Here are just a few examples of the many configurations a developer could use.  Another consideration was that when designing this plugin we had to make this fit the many already-existing configurations on the web as the Page Plugin will later replace any existing like boxes out in the wild. This gave us some problems and things to think about.  Designing in this kind of environment was an interesting challenge for me.
+The MVP page plugin. An interesting set of considerations we have to make when designing plugins for developers are that they will use our product in a large variety of settings. Each page plugin can look different based on the environment it is in and the configuration used. Here are just a few examples of the many configurations a developer could use.Another consideration was that when designing this plugin we had to make this fit the many already-existing configurations on the web as the Page Plugin will later replace any existing like boxes out in the wild. This gave us some problems and things to think about.  Designing in this kind of environment was an interesting challenge for me.
 
 ## Ship Day
 
