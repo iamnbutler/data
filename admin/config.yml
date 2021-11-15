@@ -59,3 +59,8 @@ collections:
 slug:
   encoding: "ascii"
   clean_accents: true
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: yaminateo
+    api_key: 943211837148786
