@@ -13,19 +13,87 @@
      
 ```
 
-A general data repository for other projects and archival purposes.
+A general data source of truth data repository.
 
-### /post
+## Files on disk
+Rather than rely on databases that change and continually shifting data schema, I wanted a place for data like projects, posts, and more to exist simply as flat files.
 
-`/post` – All my posts pulled from an airtable base and converted to JSON/MD files.
+## Storing data in Markdown
+Markdown seemed like an excellent place to start. It's easy to write, and we can easily add extra data on top with YAML front-matter.
 
-`/post` TODO:
+## Keeping files consistent
+I'm using [Netlify CMS](https://www.netlifycms.org/) as a hyper-lightweight way of taking markdown and adding consistent, structured YAML front-matter. Here is an example configuration:
 
-- Clean out unneeded data in JSON objects
-- Clean up markdown output
-- Format markdown/yaml for use with 11ty
-- Clean up script and post to seperate repo/npm
+```yaml
+collections:
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    label_singular: "Post"
+    folder: "data/post" # The path to the folder where the documents are stored
+    preview_path: "data/post/{{filename}}.{{extension}}"
+    create: true # Allow users to create new documents in this collection
+    slug: "{{fields.date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { 
+	label: "UUID", 
+	name: "uuid", 
+	widget: "uuid" 
+	}
+      - {
+          label: "Type",
+          name: "type",
+          options: "post",
+          widget: "hidden",
+        }
+      - { 
+	label: "Title", 
+	name: "title", 
+	widget: "string" 
+	}
+      - {
+          label: "Status",
+          name: "status",
+          widget: "select",
+          options: ["draft", "published", "archived"],
+          default: "draft",
+        }
+      - {
+          label: "Publish Date",
+          name: "date",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "YYYY-MM-DD",
+          widget: "datetime",
+          picker_utc: true,
+        }
+      - {
+          label: "Edit Note",
+          name: "edit-note",
+          widget: "markdown",
+          required: false,
+        }
+      - { label: "Body", 
+	name: "body", 
+	widget: "markdown" 
+	}
+      - {
+          label: "Excerpt",
+          name: "excerpt",
+          widget: "markdown",
+          required: false,
+        }
+      - {
+          label: "Creator",
+          name: "creator",
+          widget: "string",
+          default: "Nate Butler",
+        }
+      - {
+          label: "Custom Slug",
+          name: "custom-slug",
+          widget: "string",
+          required: false,
+        }
+```
 
-`/post` How To:
-
-Want to play around with the [airtable to md script](post/_build/export.js)? Set up your base ID/API Key in a .env file and customize the script. It is pretty hardcoded for my usecase currently but I have plans to clean it up to be a bit more project agnostic.
+Netlify CMS is service agnostic; You can access it locally or on any hosting service. Eventually, I'd like to write something local with 0 online dependencies, but this works pretty well for now.
