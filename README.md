@@ -37,22 +37,9 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{fields.date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {
-	label: "UUID",
-	name: "uuid",
-	widget: "uuid"
-	}
-      - {
-          label: "Type",
-          name: "type",
-          options: "post",
-          widget: "hidden",
-        }
-      - {
-	label: "Title",
-	name: "title",
-	widget: "string"
-	}
+      - { label: "UUID", name: "uuid", widget: "uuid" }
+      - { label: "Type", name: "type", options: "post", widget: "hidden" }
+      - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Status",
           name: "status",
@@ -75,10 +62,7 @@ collections:
           widget: "markdown",
           required: false,
         }
-      - { label: "Body",
-	name: "body",
-	widget: "markdown"
-	}
+      - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "Excerpt",
           name: "excerpt",

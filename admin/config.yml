@@ -14,12 +14,7 @@ collections:
     slug: "{{fields.date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "UUID", name: "uuid", widget: "uuid" }
-      - {
-          label: "Type",
-          name: "type",
-          options: "post",
-          widget: "hidden",
-        }
+      - { label: "Type", name: "type", options: "post", widget: "hidden" }
       - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Status",
@@ -71,12 +66,7 @@ collections:
     slug: "{{fields.date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "UUID", name: "uuid", widget: "uuid" }
-      - {
-          label: "Type",
-          name: "type",
-          options: "project",
-          widget: "hidden",
-        }
+      - { label: "Type", name: "type", options: "project", widget: "hidden" }
       - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Status",
