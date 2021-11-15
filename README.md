@@ -1,27 +1,30 @@
 ```
-                    ___                         ___     
-     _____         /\  \                       /\  \    
-    /::\  \       /::\  \         ___         /::\  \   
-   /:/\:\  \     /:/\:\  \       /\__\       /:/\:\  \  
-  /:/  \:\__\   /:/ /::\  \     /:/  /      /:/ /::\  \ 
+                    ___                         ___
+     _____         /\  \                       /\  \
+    /::\  \       /::\  \         ___         /::\  \
+   /:/\:\  \     /:/\:\  \       /\__\       /:/\:\  \
+  /:/  \:\__\   /:/ /::\  \     /:/  /      /:/ /::\  \
  /:/__/ \:|__| /:/_/:/\:\__\   /:/__/      /:/_/:/\:\__\
  \:\  \ /:/  / \:\/:/  \/__/  /::\  \      \:\/:/  \/__/
-  \:\  /:/  /   \::/__/      /:/\:\  \      \::/__/     
-   \:\/:/  /     \:\  \      \/__\:\  \      \:\  \     
-    \::/  /       \:\__\          \:\__\      \:\__\    
-     \/__/         \/__/           \/__/       \/__/    
-     
+  \:\  /:/  /   \::/__/      /:/\:\  \      \::/__/
+   \:\/:/  /     \:\  \      \/__\:\  \      \:\  \
+    \::/  /       \:\__\          \:\__\      \:\__\
+     \/__/         \/__/           \/__/       \/__/
+
 ```
 
 A general data source of truth data repository.
 
 ## Files on disk
+
 Rather than rely on databases that change and continually shifting data schema, I wanted a place for data like projects, posts, and more to exist simply as flat files.
 
 ## Storing data in Markdown
+
 Markdown seemed like an excellent place to start. It's easy to write, and we can easily add extra data on top with YAML front-matter.
 
 ## Keeping files consistent
+
 I'm using [Netlify CMS](https://www.netlifycms.org/) as a hyper-lightweight way of taking markdown and adding consistent, structured YAML front-matter. Here is an example configuration:
 
 ```yaml
@@ -34,10 +37,10 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{fields.date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - { 
-	label: "UUID", 
-	name: "uuid", 
-	widget: "uuid" 
+      - {
+	label: "UUID",
+	name: "uuid",
+	widget: "uuid"
 	}
       - {
           label: "Type",
@@ -45,10 +48,10 @@ collections:
           options: "post",
           widget: "hidden",
         }
-      - { 
-	label: "Title", 
-	name: "title", 
-	widget: "string" 
+      - {
+	label: "Title",
+	name: "title",
+	widget: "string"
 	}
       - {
           label: "Status",
@@ -72,9 +75,9 @@ collections:
           widget: "markdown",
           required: false,
         }
-      - { label: "Body", 
-	name: "body", 
-	widget: "markdown" 
+      - { label: "Body",
+	name: "body",
+	widget: "markdown"
 	}
       - {
           label: "Excerpt",
