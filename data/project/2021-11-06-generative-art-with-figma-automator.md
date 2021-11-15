@@ -8,13 +8,13 @@ excerpt: Exploring the new Automator plugin for Figma. I thought exploring a
   way to try it out.
 creator: Nate Butler
 ---
-\## Generative Art with Figma & Automator
+## Generative Art with Figma & Automator
 
 Exploring the new Automator plugin for Figma. I thought exploring a minimal generative series using pixels and mapping equations would be a fun way to try it out.
 
 ![Some select screens from my automation explorations](https://res.cloudinary.com/yaminateo/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1636435580/project/fig-gen/gen-grid_2x_d5gs3h.png)
 
-\### Process
+### Process
 
 I started by pushing on nesting shapes – How does it look when you nest and rotate shapes continuously? I got some cool outcomes like below, but I realized that most of the gens would end up looking pretty similar, relying so heavily on rotation.
 
@@ -36,7 +36,7 @@ My favorite thing so far about Automator is how quickly I was able to explore a 
 
 ![](https://res.cloudinary.com/yaminateo/image/upload/v1636439418/project/fig-gen/gen-range_lhw4bg.png)
 
-\### Outcome
+### Outcome
 
 Here are some of my favorite gens:
 
@@ -52,7 +52,7 @@ Here are some of my favorite gens:
 
 I'm looking forward to exploring another generative series soon, following everything I learned with this one!
 
-You can find some of the JSON import files I saved as I was exploring in the \[fig-gen](https://github.com/iamnbutler/fig-gen) repo.\
+You can find some of the JSON import files I saved as I was exploring in the [fig-gen](https://github.com/iamnbutler/fig-gen) repo.
 ---
 
-\[Jordan Singer](https://twitter.com/jsngr)'s\[Automator](https://automator.design/) plugin is currently in closed beta. I can't wait to see what everyone is able to create once they get their hands on this!
+[Jordan Singer](https://twitter.com/jsngr)'s [Automator](https://automator.design/) plugin is currently in closed beta. I can't wait to see what everyone is able to create once they get their hands on this!
