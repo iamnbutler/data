@@ -1,7 +1,7 @@
 ---
 uuid: 01e3eb3e-7e6b-4e13-b0b3-3cbca1190bba
 title: Creating Motion Graphics in Isadora
-status: draft
+status: published
 date: 2013-11-05
 excerpt: Using the visualization software Isadora to make creative, interactive
   visualizations.
