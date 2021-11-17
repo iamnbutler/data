@@ -17,6 +17,11 @@ Inspired by a project a friend did recently about a display that reacts to your 
 
 While Mixblocks has a feed of creations that you can grab and remix from, it has no likes, no connected identities, and no custom user names.
 
+![](https://res.cloudinary.com/yaminateo/image/upload/v1637124910/project/mixblocks/Frame_28_mjppaj.png)
+
+![](https://res.cloudinary.com/yaminateo/image/upload/v1637124910/project/mixblocks/CleanShot_-_2021-11-16_at_23.49.48_2x_gy2rcd.png)
+(Some branding exploration fun)
+
 ## Joining Mixblocks
 
 When joining mixblocks, a creator is assigned a randomly generated name & profile image, which they can regenerate any amount of times. This generated name becomes the pseudonym that they create under. Mixblocks focuses on creation from the beginning–not social presence or clout.
