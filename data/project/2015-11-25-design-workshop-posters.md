@@ -4,6 +4,9 @@ title: Design Workshop Posters
 status: published
 date: 2015-11-25
 edit-note: ""
+excerpt: The result of a rather unconventional workshop project. This is the
+  artifact I produced as a summary of my exploration and making throughout the
+  first half of Design Workshop.
 creator: Nate Butler
 ---
 After I wrapped up my period of deep design workshop exploration I wrote up some of what I discovered and created these posters.
