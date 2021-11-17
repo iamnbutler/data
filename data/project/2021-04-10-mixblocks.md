@@ -9,6 +9,8 @@ excerpt: Learn, create & remix with light and sound. mixblocks lets you create
   Matrices.
 creator: Nate Butler
 ---
+![](https://res.cloudinary.com/yaminateo/image/upload/v1637124653/project/mixblocks/thumbnail-2x1_yyknqu.jpg)
+
 ## The Concept
 
 Inspired by a project a friend did recently about a display that reacts to your music, I started exploring *mixblocks.* A creation & remix tool focused around collaborative creation through the sharing of 'blocks.' 
