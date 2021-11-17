@@ -1,7 +1,7 @@
 # All configuration options here: https://www.netlifycms.org/docs/configuration-options/
 backend:
   name: git-gateway
-  branch: add-cms
+  branch: main
 media_folder: "assets/images/"
 display_url: https://github.com/iamnbutler/data
 collections:
