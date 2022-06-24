@@ -1,23 +1,19 @@
 {
-  "name": "data",
-  "version": "2.0.0",
-  "description": "A general data repository for other projects and archival purposes.",
-  "main": "README.md",
-  "dependencies": {
-    "dotenv": "^8.2.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iamnbutler/data.git"
-  },
-  "author": "Nate Butler",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iamnbutler/data/issues"
-  },
-  "homepage": "https://github.com/iamnbutler/data#readme"
+    "name": "data",
+    "version": "2.0.0",
+    "description": "A general data repository for other projects and archival purposes.",
+    "main": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iamnbutler/data.git"
+    },
+    "author": "Nate Butler",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/iamnbutler/data/issues"
+    },
+    "homepage": "https://github.com/iamnbutler/data#readme",
+    "scripts": {
+        "format": "npx prettier --write ."
+    }
 }
