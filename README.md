@@ -21,66 +21,15 @@ Rather than rely on databases that change and continually shifting data schema, 
 
 ## Storing data in Markdown
 
-Markdown seemed like an excellent place to start. It's easy to write, and we can easily add extra data on top with YAML front-matter.
+Markdown seemed like an excellent place to start. It's easy to write, and we can easily add extra data on top with front-matter.
 
-## Keeping files consistent
-
-I'm using [Netlify CMS](https://www.netlifycms.org/) as a hyper-lightweight way of taking markdown and adding consistent, structured YAML front-matter. Here is an example configuration:
+## Front Matter
 
 ```yaml
-collections:
-  - name: "post" # Used in routes, e.g., /admin/collections/blog
-    label: "Posts" # Used in the UI
-    label_singular: "Post"
-    folder: "data/post" # The path to the folder where the documents are stored
-    preview_path: "data/post/{{filename}}.{{extension}}"
-    create: true # Allow users to create new documents in this collection
-    slug: "{{fields.date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: "UUID", name: "uuid", widget: "uuid" }
-      - { label: "Type", name: "type", options: "post", widget: "hidden" }
-      - { label: "Title", name: "title", widget: "string" }
-      - {
-          label: "Status",
-          name: "status",
-          widget: "select",
-          options: ["draft", "published", "archived"],
-          default: "draft",
-        }
-      - {
-          label: "Publish Date",
-          name: "date",
-          date_format: "YYYY-MM-DD",
-          time_format: false,
-          format: "YYYY-MM-DD",
-          widget: "datetime",
-          picker_utc: true,
-        }
-      - {
-          label: "Edit Note",
-          name: "edit-note",
-          widget: "markdown",
-          required: false,
-        }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          label: "Excerpt",
-          name: "excerpt",
-          widget: "markdown",
-          required: false,
-        }
-      - {
-          label: "Creator",
-          name: "creator",
-          widget: "string",
-          default: "Nate Butler",
-        }
-      - {
-          label: "Custom Slug",
-          name: "custom-slug",
-          widget: "string",
-          required: false,
-        }
+uuid: "1b855fc1-7eec-4b35-b711-b035b8458c5d" # ID / Unique identifier
+title: "post-title" #
+slug: "Post Title" # YYYY-MM-DD-title.md
+status: "draft" # draft | published | archived
+date_created: "03/04/1997" # DD/MM/YYYY
+date_modified: 09/09/1999"" # DD/MM/YYYY
 ```
-
-Netlify CMS is service agnostic; You can access it locally or on any hosting service. Eventually, I'd like to write something local with 0 online dependencies, but this works pretty well for now.
