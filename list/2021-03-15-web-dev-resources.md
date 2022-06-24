@@ -1,33 +1,18 @@
 ---
-post_visible: true
-status: published
+uuid: 30ec7aa8-9b6b-429d-86a8-cc1790bf5c44
 title: Web Dev Resources
-subtitle: Useful resources for the hobby developers.
-slug: 2021-03-15-web-dev-resources
-custom_slug: web-development-resources
-date: '2021-03-15'
-author: Nate Butler
-primary_tag: list
-tags:
-  - tip
-  - list
-  - dev
-summary: >-
-  I tend to go back to the same articles, tools and setups over and over when
-  writing code. Now I'm passing them on, I hope you find something interesting!
-featured: true
-show_thumbnail: true
-thumbnail: >-
-  https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/web-dev-resources-1x1.jpg
-wide_thumbnail: >-
-  https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/web-dev-resources-2x1.jpg
-hero_image: >-
-  https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/web-dev-resources-hero.jpg
+slug: web-dev-resources
+status: published
+date_created: "2021/03/15"
+date_modified:
 ---
+
 ## Preface
+
 I'm mostly a hobby developer – I've learned mostly by taping together bits of code found all over the internet for years now. This space is mostly for remembering the cool and useful shit I run across, but hopefully you can find something useful in here!
 
 ## Tools
+
 - [VS Code](https://code.visualstudio.com/) – More or less the god of code editors at this point. I was resistant to moving to something so "heavy", only to find once I tried it it is incredibly fast on top of being packed with useful stuff.
 - [Codekit](https://codekitapp.com/) – All sorts of fun things out of the box. Compass, local servers, sass compilation & more. I use VSCode more these days to cover these needs, but I relied on Codekit for years.
 
@@ -35,7 +20,6 @@ I'm mostly a hobby developer – I've learned mostly by taping together bits of 
 
 - Of course, the classics: [CSSTricks' Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) & [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - In fact, pretty much [any guide](https://css-tricks.com/guides/) from [Chris](https://chriscoyier.net/) & co is great.
-
 
 ### Grid
 
@@ -48,6 +32,8 @@ I'm mostly a hobby developer – I've learned mostly by taping together bits of 
 - [CSS Doodle](https://css-doodle.com/) – Draw complex patterns & visuals in pure CSS.
 
 ## Static Site Generators
+
+- [Next.js](https://nextjs.org/) – Can't beat em? Join em. Got bullied into writing React, but Next is pretty ok.
 - [Jamstack](https://jamstack.org/) – A great starting point for learning about static site generators and what is out there.
 
 ### [11ty](https://www.11ty.dev/)
@@ -59,7 +45,8 @@ I'm mostly a hobby developer – I've learned mostly by taping together bits of 
 ## Git
 
 - Questions:
-	- [Remove .DS_Store from Git](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository)
+  - [Remove .DS_Store from Git](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository)
 
 ## Site Speed & Testing
+
 - [Google Developers – Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
