@@ -5,7 +5,7 @@ title: Research Mongraph – Design Workshop
 subtitle: A visual interpretation of a reading from our Design Workshop class.
 slug: 2015-10-12-research-mongraph-design-workshop
 custom_slug: research-mongraph-design-workshop
-date: '2015-10-12'
+date: "2015-10-12"
 author: Nate Butler
 primary_tag: design
 tags:
@@ -24,4 +24,5 @@ post_images: >-
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604dde0b94532b8092aac9dc_Research%20Monograph8.jpg;
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604dde0a3fdf20103526fc78_Research%20Monograph9.jpg
 ---
+
 <p>A purely visual assignment – take a reading and create visuals to augment it.</p>

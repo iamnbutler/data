@@ -4,7 +4,7 @@ title: Facebook Avatars
 subtitle: Bringing some fun & joy back to Facebook.
 slug: 2019-03-31-facebook-avatars
 custom_slug: facebook-avatars
-date: '2019-03-31'
+date: "2019-03-31"
 company: Facebook
 section: Facebook Avatars
 project_type:
@@ -19,4 +19,5 @@ thumbnail: >-
 wide_thumbnail: >-
   https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/facebook-avatars_2x1.jpg
 ---
+
 undefined

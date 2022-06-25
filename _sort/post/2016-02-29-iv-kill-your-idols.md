@@ -7,12 +7,13 @@ subtitle: >-
   misunderstanding the difference between talent and experience.
 slug: 2016-02-29-iv-kill-your-idols
 custom_slug: kill-your-idols
-date: '2016-02-29'
+date: "2016-02-29"
 author: Nate Butler
 primary_tag: editorial
 tags:
   - editorial
 ---
+
 ## Chapter Four
 
 ### In a world of design superstars it is easy to underestimate one's skills by misunderstanding the difference between talent and experience.

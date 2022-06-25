@@ -5,7 +5,7 @@ title: Design Workshop – Exploration & Process
 subtitle: A deep exploration of space, light and reflection through 2D & 3D.
 slug: 2015-11-01-design-workshop-exploration-and-process
 custom_slug: design-workshop-deep-exploration
-date: '2015-11-01'
+date: "2015-11-01"
 author: Nate Butler
 primary_tag: design
 tags:
@@ -16,7 +16,7 @@ summary: >-
   Design Workshop is a year long research & independent study course in the YSDN
   program. Each student works with a professor to explore an area that is
   interesting to them and they can get quite deep into. This is an opportunity
-  to go deep on a topic you are passionate about... 
+  to go deep on a topic you are passionate about...
 featured: true
 show_thumbnail: true
 thumbnail: >-
@@ -47,13 +47,15 @@ post_images: >-
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604de4992582aa689de95100_Export_2_Clouds.png;
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604de4a316ac694098cc2608_igex1.png
 ---
+
 ## Context
 
-Design Workshop is a year long research & independent study course in the YSDN program. Each student works with a professor to explore an area that is interesting to them and they can get quite deep into. This is an opportunity to go deep on a topic you are passionate about. 
+Design Workshop is a year long research & independent study course in the YSDN program. Each student works with a professor to explore an area that is interesting to them and they can get quite deep into. This is an opportunity to go deep on a topic you are passionate about.
 
-I was severely burned out in my last year of school, so this project ended up taking shape as a sort of self reflection/introspective exploration of what design was to me and how my design process works. 
+I was severely burned out in my last year of school, so this project ended up taking shape as a sort of self reflection/introspective exploration of what design was to me and how my design process works.
 
 ## Initial Approach
+
 I had initially planned to do my workshop on the concept of telepresence in virtual reality. It was an exciting space at the time, and I had just got my DK2 shortly before so I was super excited to spend the year exploring. Somewhere along the line though my interest shifted.
 
 ## Pivot & Early Exploration
@@ -95,6 +97,7 @@ Here is some more recent imagery.
 ![](https://storage.googleapis.com/yaminateo-image-bucket/img/attachments/workshop-exploration/604de4a316ac694098cc2608_igex1-p-1080.png)
 
 ## Outcome
+
 There were two outcomes from this project: A poster series and a site to host the partner written pieces. I'll share these in a later post.
 
 ## Process

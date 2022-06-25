@@ -5,7 +5,7 @@ title: The Intermission – Web Site
 subtitle: Building the YSDN 2016 Grad Show Site
 slug: 2016-05-16-the-intermission-web-site
 custom_slug: the-intermission-web-site
-date: '2016-05-16'
+date: "2016-05-16"
 author: Nate Butler
 primary_tag: design
 tags:
@@ -31,6 +31,7 @@ post_images: >-
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604e66e6791e7d5f01ca1a50_Screen%20Shot%202021-03-14%20at%2012.28.11%20PM.png;
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604e66e659681ea0dd3978e4_Screen%20Shot%202021-03-14%20at%2012.29.20%20PM.png
 ---
+
 <p>WIP</p>
 
 [Go to Site](http://ysdn-2016.github.io/) [View on Github](https://github.com/ysdn-2016/ysdn-2016.github.io)

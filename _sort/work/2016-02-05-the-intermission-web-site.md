@@ -4,7 +4,7 @@ title: The Intermission Web Site
 subtitle: A brief pause in the chaos to celebrate achievement.
 slug: 2016-02-05-the-intermission-web-site
 custom_slug: ysdn-the-intermission
-date: '2016-02-05'
+date: "2016-02-05"
 company: YSDN
 project_type:
   - Project Lead
@@ -33,4 +33,5 @@ thumbnail: >-
 wide_thumbnail: >-
   https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/the_intermission_2x1.png
 ---
+
 undefined

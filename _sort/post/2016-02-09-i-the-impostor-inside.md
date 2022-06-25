@@ -7,7 +7,7 @@ subtitle: >-
   possibly belong. That somehow you are here by mistake.
 slug: 2016-02-09-i-the-impostor-inside
 custom_slug: the-impostor-inside
-date: '2016-02-09'
+date: "2016-02-09"
 author: Nate Butler
 primary_tag: editorial
 tags:
@@ -16,8 +16,9 @@ tags:
 summary: >-
   There is a voice inside of me. One that constantly tells me that I don’t
   belong. The truth is, sometimes I believe that voice. The impostor is there to
-  remind me of the things I’m afraid to say. 
+  remind me of the things I’m afraid to say.
 ---
+
 # Chapter One
 
 _Everyone has felt that creeping feeling. The feeling that you just couldn’t possibly belong. That somehow you are here by mistake. It’s terrifying because it feels_ **_true_**_._
@@ -42,11 +43,11 @@ You did not end up here by accident.
 
 You don’t have to give in to the voice in your head, and here is how you are going to prove it:
 
-*   **Trust others.** _Trust that they know what they are doing. You were hired for this job for a reason. You made it into that school for a reason. By doubting yourself you are doubting everyone involved in the process. And for the people that trusted you, create something good!_
-*   **Break the cycle.** _Every time you feel like you don’t belong reflect on your accomplishments. Tell yourself that you do belong, and that you are here for a reason. Take joy in finding what that reason is and working towards accomplishing it._
-*   **Challenge yourself**. _Don’t shy away from a problem or learning a skill because it takes you out of your comfort zone. You deserve to contribute. Let the world know what you want to say._
-*   **Confide in others.** _You might be surprised at how many people feel the same way. Encourage each other. Sometimes simply verbalizing your thoughts can help you see things differently._
-*   **Be confident.** _Don’t place your value in other’s opinions of you. Even the positive opinions of others can cripple your self confidence. Julie Zhou said it best in her article_ [The Impostor Syndrome](https://medium.com/the-year-of-the-looking-glass/the-imposter-syndrome-9e23e2326d88#.aecfyy60n): _“Experience makes anything look easy, but insecurities never fully disappear… \[however\] it gets easier. You start trusting yourself. You’re an imposter less and less, and you’re yourself more and more.”_
+- **Trust others.** _Trust that they know what they are doing. You were hired for this job for a reason. You made it into that school for a reason. By doubting yourself you are doubting everyone involved in the process. And for the people that trusted you, create something good!_
+- **Break the cycle.** _Every time you feel like you don’t belong reflect on your accomplishments. Tell yourself that you do belong, and that you are here for a reason. Take joy in finding what that reason is and working towards accomplishing it._
+- **Challenge yourself**. _Don’t shy away from a problem or learning a skill because it takes you out of your comfort zone. You deserve to contribute. Let the world know what you want to say._
+- **Confide in others.** _You might be surprised at how many people feel the same way. Encourage each other. Sometimes simply verbalizing your thoughts can help you see things differently._
+- **Be confident.** _Don’t place your value in other’s opinions of you. Even the positive opinions of others can cripple your self confidence. Julie Zhou said it best in her article_ [The Impostor Syndrome](https://medium.com/the-year-of-the-looking-glass/the-imposter-syndrome-9e23e2326d88#.aecfyy60n): _“Experience makes anything look easy, but insecurities never fully disappear… \[however\] it gets easier. You start trusting yourself. You’re an imposter less and less, and you’re yourself more and more.”_
 
 When the voice inside you starts whispering, remember that you are here for a reason. You were not chosen by mistake.
 

@@ -5,7 +5,7 @@ title: nurture tribute
 subtitle: A few pieces inspired by Porter Robinson's Nurture.
 slug: 2021-04-13-nurture-tribute
 custom_slug: nurture-tribute
-date: '2021-04-13'
+date: "2021-04-13"
 author: Nate Butler
 primary_tag: art
 tags:
@@ -19,4 +19,5 @@ wide_thumbnail: >-
 hero_image: >-
   https://storage.googleapis.com/yaminateo-image-bucket/img/nurture_tribute_hero.jpg
 ---
+
 undefined

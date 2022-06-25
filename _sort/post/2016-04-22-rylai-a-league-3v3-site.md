@@ -5,7 +5,7 @@ title: Ryl.ai – A League 3V3 Site
 subtitle: Learn champion strengths, team comps watch pros & more.
 slug: 2016-04-22-rylai-a-league-3v3-site
 custom_slug: ryl-ai-a-league-3v3-site
-date: '2016-04-22'
+date: "2016-04-22"
 author: Nate Butler
 primary_tag: project
 tags:
@@ -24,9 +24,11 @@ prefer_wide_thumbnail: true
 wide_thumbnail: >-
   https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/rylai-3v3-2x1.jpg
 ---
+
 Ryl.ai is a concept project that I worked on to fill the place of some of the major League 3V3 sites (like thetwistedtreeline & 3v3.gg) that shut down. The idea was to get people excited about the game mode through easy access to streams, strategies and stats, in the vein of something like [champion.gg](https://champion.gg/).
 
 ## The Concept
+
 I was super excited to start building this, as I was very deep into 3v3 laddering with a team of friends. We were averaging a few hundred games a year at the time and making steady progress, but we were starting to hit a wall.
 
 A big part of the League experience is using resources to learn champions and strategies in depth, but there was a real lack of these resources for 3v3. I wanted to make a truly dedicated site that got people hyped about it and helped bring it back into the spotlight.
@@ -38,6 +40,7 @@ The hypothesis was that people would come here and learn to play their champions
 ![](https://storage.googleapis.com/yaminateo-image-bucket/img/attachments/rylai-3v3/604bbeb294938f3d44f9bcc5_Screen%20Shot%202021-03-12%20at%2011.13.43%20AM.jpg)
 
 We planned to have a few sections:
+
 - Home would overview stats for the weeks, a hype reel of the best plays of that month, and a featured streams that were currently live. Beyond that people would pivot right into choosing the champion they wanted to improve.
 - Champions would be a deep dive into each champion strong in 3v3, with a dynamic tier list and recommended champions for different skill levels and focuses. This would be more opinionated than a simple stat list.
 - Team Comps – Especially in a game mode as small and fast as 3v3, team comps are especially important. Here we would highlight strong team comps, and have a team comp finder based on what you and your team mates play. We could even go as far as to recommend champions for team members to learn to open up stronger comps to your team.
@@ -53,6 +56,7 @@ One of the big ideas I was excited about was a community-driven monthly highligh
 The individual champion pages were going to be designed from the perspective of learning and growing while picking up a new champion or refining your current skill set.
 
 I didn't get super far on these designs, but a few cool things:
+
 - The chart in the header of a champion page would show their overall popularity in 3v3.
 - Individual champions would have a community built hype reel to show off some of the cool moments from that champion.
 - Having entire length "pro games" available to watch let people learn things they might have missed otherwise from general guides, like things they might do in the early game or in team fights.

@@ -5,7 +5,7 @@ title: Hardware Hacking
 subtitle: Building robots and games with Arduino & Pi.
 slug: 2016-02-01-hardware-hacking
 custom_slug: hardware-hacking
-date: '2016-02-01'
+date: "2016-02-01"
 author: Nate Butler
 primary_tag: project
 tags:
@@ -35,6 +35,7 @@ post_images: >-
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604debaca35a424b7d44b6a1_thumb_IMG_0605_1024.jpg;
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604debab5b1b3043bde69f64_thumb_LBFD8460_1024.jpg
 ---
+
 Throughout this last year I worked on some Physical Computing projects, giving me a chance to explore the worlds of Raspberry Pi, Arduino, and physical sensing.
 
 Working with hardware has helped me gain a better understanding of how some of the technologies we use with everyday work. I believe that learning how things work helps us design better products.

@@ -6,7 +6,7 @@ title: |
 subtitle: Here are a few of my selected design works spanning from 2011 — 2015.
 slug: 2016-04-19-ysdn-selected-works
 custom_slug: ysdn-selected-works
-date: '2016-04-19'
+date: "2016-04-19"
 author: Nate Butler
 primary_tag: design
 tags:
@@ -21,6 +21,7 @@ summary: >+
 
 featured: true
 ---
+
 Here are a few of my selected design works spanning from 2011 — 2015. I spent a lot of time during school doing professional work, so I often took my courses as an opportunity to explore and experiment with mediums.
 
 Learning to work in a variety of spaces and mediums allows one to grow and appreciate voices different than their own. Understanding alternate viewpoints and another’s worldview can be found at the core of becoming a more open person.

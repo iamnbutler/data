@@ -4,7 +4,7 @@ title: Internal Tools at Facebook
 subtitle: Helping product teams build more efficiently.
 slug: 2020-04-13-internal-tools-at-facebook
 custom_slug: facebook-internal-productivity-design
-date: '2020-04-13'
+date: "2020-04-13"
 company: Facebook
 section: Productivity Design
 project_type:
@@ -19,4 +19,5 @@ goal: |
 team: PM, UXR, 3 ENG
 outcome: 2 major launches, a move towards navigation consistency across all tools.
 ---
+
 undefined

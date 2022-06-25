@@ -4,7 +4,7 @@ title: Design Workshop
 subtitle: Designing the problem through making.
 slug: 2015-03-12-design-workshop
 custom_slug: ydsn-design-workshop
-date: '2015-03-12'
+date: "2015-03-12"
 company: YSDN
 project_type:
   - Art Direction
@@ -34,6 +34,7 @@ thumbnail: >-
 wide_thumbnail: >-
   https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/design_workshop_2x1.png
 ---
+
 ### Learning to Make
 
 This is a project about discovery, identifying weakness, and finding strength. A two part project: one part illustration, one part narrative. It was born out of a desire to make without a problem, to make for the sake of making. The illustrations began by exploring the ideas of lost worlds and alternate realities but as the project continued it began to gradually in change form.
@@ -54,7 +55,7 @@ This idea manifested itself in the work through form, layering and artistic dire
 
 Creating a Process
 
---------------------
+---
 
 I began exploring various 3D softwares. I stumbled upon a delightful voxel design program called [MagicaVoxel](https://ephtracy.github.io/) (a voxel is the 3D equivalent of a 2D pixel.) It was a simple, very lightweight program that allowed quick prototyping of ideas, with rather straightforward rendering tools.
 

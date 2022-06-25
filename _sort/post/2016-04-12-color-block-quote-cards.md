@@ -7,7 +7,7 @@ subtitle: >-
   Intermission
 slug: 2016-04-12-color-block-quote-cards
 custom_slug: color-block-quote-cards
-date: '2016-04-12'
+date: "2016-04-12"
 author: Nate Butler
 primary_tag: design
 tags:
@@ -26,4 +26,5 @@ post_images: >-
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddad026e7a4580279de79_Card%205%20Front.png;
   https://uploads-ssl.webflow.com/60453108a750bf32c24d79eb/604ddacf4cfde028a83d737c_Card%205%20Back.png
 ---
+
 <p>We were supposed to make business cards to have available at our booths, but I decided since I&nbsp;already had a job and wasn't really looking for new connections, instead I would use the space to hopefully share a little joy.</p><p>These cards were printed with a spot gloss, so the gradient squares were super rich (I'll have to take some photos later to add to this post.)</p><p>On the backs of the cards I&nbsp;added little quotes I found that I liked.</p><p>Overall the cards didn't have much of a point, I just wanted to have something that people could take that looked nice.</p>

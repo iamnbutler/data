@@ -5,7 +5,7 @@ title: III. Make! Make! Make!
 subtitle: There is a universe of brilliant ideas locked inside your mind.
 slug: 2016-02-29-iii-make-make-make
 custom_slug: make-make-make
-date: '2016-02-29'
+date: "2016-02-29"
 author: Nate Butler
 primary_tag: editorial
 tags:
@@ -16,7 +16,8 @@ summary: >-
   experience that makes a life a little easier. But those ideas are useless if
   they remain inside.
 ---
-## Chapter Three 
+
+## Chapter Three
 
 There is a universe of brilliant ideas locked inside the mind: The next billion dollar product, a cure to cancer, or even the newest experience that makes a life a little easier. But those ideas are useless if they remain inside.
 

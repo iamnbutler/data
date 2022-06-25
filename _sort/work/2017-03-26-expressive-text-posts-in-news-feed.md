@@ -4,7 +4,7 @@ title: Expressive Text Posts in News Feed
 subtitle: Helping people share their big thoughts in the noise of feed.
 slug: 2017-03-26-expressive-text-posts-in-news-feed
 custom_slug: facebook-visual-text-posts
-date: '2017-03-26'
+date: "2017-03-26"
 company: Facebook
 section: News Feed
 project_type:
@@ -30,5 +30,7 @@ thumbnail: >-
 wide_thumbnail: >-
   https://storage.googleapis.com/yaminateo-image-bucket/img/thumbnail/satp_2x1.jpg
 ---
+
 ## Test Body
+
 sajglkdsajglka

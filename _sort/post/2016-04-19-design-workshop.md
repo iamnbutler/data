@@ -5,7 +5,7 @@ title: Design Workshop
 subtitle: "This is a\_project about discovery, identifying weakness, and\_finding strength."
 slug: 2016-04-19-design-workshop
 custom_slug: design-workshop
-date: '2016-04-19'
+date: "2016-04-19"
 author: Nate Butler
 primary_tag: design
 tags:
@@ -21,6 +21,7 @@ summary: >-
 featured: true
 show_thumbnail: true
 ---
+
 # Learning to Make
 
 This is a project about discovery, identifying weakness, and finding strength. A two part project: one part illustration, one part narrative. It was born out of a desire to make without a problem, to make for the sake of making. The illustrations began by exploring the ideas of lost worlds and alternate realities but as the project continued it began to gradually in change form.
@@ -63,7 +64,6 @@ Beginning from the second half of the project, while making continued as in t
 
 I decided to make a mini-site with a collection of four stories reflecting on things I had learned during my time in and out of school over the past four years. By drawing from my own experience I’m able to write about topics that I care about, but attempt to universalize them so that they are applicable to many other designers that may read the stories. The stories included:
 
-  
 1 – The Impostor Inside  
 Identifying impostor syndrome and understanding your value  
 2 – Break the Cycle  
@@ -71,7 +71,7 @@ Living with depression and dealing with it’s effects on your creative proces
 3 – Make! Make! Make!  
 Why finding a balance between collecting knowledge and making is important  
 4 – Kill Your Idols  
-There is no such thing as a design superstar, just those with more experience, and those that put the work in  
+There is no such thing as a design superstar, just those with more experience, and those that put the work in
 
 ![](http://ysdn-gradshow.s3.amazonaws.com/564f9255e7679d3cd0f73ec9/56bb9352cfcf120800f28b19/034824e6ec19ef9e776bf805abd6aaf93ddb38fc-workshop_writing_1.8b6ff64a31790288f1b061ccc4fe027a54591f84.jpg)
 
@@ -89,6 +89,5 @@ The final site can be experienced through the link below.
 
 [Visit the Site](http://iamnbutler.github.io/cuuubic/)
 
-  
 Photography  
 [Unsplash](https://unsplash.com/license)
