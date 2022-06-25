@@ -16,6 +16,10 @@ I'm mostly a hobby developer – I've learned mostly by taping together bits of 
 - [VS Code](https://code.visualstudio.com/) – More or less the god of code editors at this point. I was resistant to moving to something so "heavy", only to find once I tried it it is incredibly fast on top of being packed with useful stuff.
 - [Codekit](https://codekitapp.com/) – All sorts of fun things out of the box. Compass, local servers, sass compilation & more. I use VSCode more these days to cover these needs, but I relied on Codekit for years.
 
+## Text, Characters, Escape Codes, Emoji
+
+- https://graphemica.com/
+
 ## CSS
 
 - Of course, the classics: [CSSTricks' Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) & [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
