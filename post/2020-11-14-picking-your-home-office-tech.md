@@ -3,7 +3,7 @@ uuid: 91370aaa-68b8-4756-a3d7-2d1c84b00cd8
 title: Picking Your Home Office Tech
 slug: picking-your-home-office-tech
 status: published
-date_created: 2021/08/03
+date_created: 2020/08/03
 date_modified:
 ---
 
