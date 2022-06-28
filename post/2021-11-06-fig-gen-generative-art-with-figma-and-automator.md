@@ -1,9 +1,9 @@
 ---
 uuid: cc6f69c4-3040-4db9-8351-88933742565f
-title: "fig-gen: Making Generative art in Figma"
-slug: "fig-gen"
+title: Generative Art with Figma & Automator
+slug: fig-gen-generative-art-with-figma-and-automator
 status: published
-date_created: "2021-11-06"
+date_created: 2021/11/06
 date_modified:
 ---
 

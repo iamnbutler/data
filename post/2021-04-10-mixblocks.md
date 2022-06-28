@@ -1,13 +1,10 @@
 ---
 uuid: bd3e980c-b79d-4852-b014-ac6f32bb9356
 title: Mixblocks
+slug: mixblocks
 status: published
-date: 2021-04-10
-excerpt: Learn, create & remix with light and sound. mixblocks lets you create
-  small, open source blocks that anyone can use to make creations,
-  license-free–with a focus on physical output to displays like LED Dot
-  Matrices.
-creator: Nate Butler
+date_created: 2021/04/10
+date_modified:
 ---
 
 ![](https://res.cloudinary.com/yaminateo/image/upload/v1637124653/project/mixblocks/thumbnail-2x1_yyknqu.jpg)

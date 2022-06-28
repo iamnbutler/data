@@ -1,11 +1,10 @@
 ---
 uuid: ddb7edd5-c1ef-49c7-9b4f-4242a197717d
 title: Printing Jewelry
+slug: printing-jewelry
 status: published
-date: 2018-11-15
-excerpt: After finding out Shapeways can 3D print & cast metal jewelery I
-  couldn't resist doing a project with this.
-creator: Nate Butler
+date_created: 2018-11-15
+date_modified:
 ---
 
 My wife is a huge Kingdom Hearts fan, so once I discovered that 3D printing metal was not only possible, but also not overly expensive, I decided I'd make her a custom Keyblade piece.

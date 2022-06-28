@@ -1,16 +1,13 @@
 ---
 uuid: 2303b53e-80dd-4e3b-b62d-74f80566546d
 title: Design Workshop Posters
+slug: design-workshop-posters
 status: published
-date: 2015-11-25
-edit-note: ""
-excerpt: The result of a rather unconventional workshop project. This is the
-  artifact I produced as a summary of my exploration and making throughout the
-  first half of Design Workshop.
-creator: Nate Butler
+date_created: 2015/11/25
+date_modified:
 ---
 
-After I wrapped up my period of deep design workshop exploration I wrote up some of what I discovered and created these posters.
+After I wrapped up a period of deep design workshop exploration I wrote up some of what I discovered and created these posters.
 
 ![](https://res.cloudinary.com/yaminateo/image/upload/v1637122428/project/workshop-posters/Poster-Book_fo8fk8.jpg)
 

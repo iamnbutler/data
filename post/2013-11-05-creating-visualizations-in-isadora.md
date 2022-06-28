@@ -1,11 +1,10 @@
 ---
 uuid: 01e3eb3e-7e6b-4e13-b0b3-3cbca1190bba
 title: Creating Motion Graphics in Isadora
+slug: creating-motion-graphics-in-isadora
 status: published
-date: 2013-11-05
-excerpt: Using the visualization software Isadora to make creative, interactive
-  visualizations.
-creator: Nate Butler
+date_created: 2013/11/05
+date_modified:
 ---
 
 ![](https://res.cloudinary.com/yaminateo/video/upload/v1637120269/project/isadora/academy-leader_eryomr.mp4)

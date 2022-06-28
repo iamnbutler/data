@@ -1,15 +1,10 @@
 ---
 uuid: d21137fc-f538-44de-9f84-f24def5d929f
 title: Getting your first job as a product designer
+slug: getting-your-first-job-as-a-product-designer
 status: published
-date: 2021-11-04
-excerpt: >-
-  There is no "right way" to find your path in the industry, but maybe this can
-  help just a bit.
-
-
-  This is an ongoing project to help early-career designers bootstrap up to their first job in the tech industry. The goal is to be complete without being overly verbose.
-creator: Nate Butler
+date_created: 2021/11/04
+date_modified:
 ---
 
 ## The Project

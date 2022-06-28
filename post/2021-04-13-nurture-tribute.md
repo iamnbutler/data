@@ -1,10 +1,10 @@
 ---
 uuid: bcd0ba51-d050-49a8-a4ae-26b4bd9da2b0
-title: nurture tribute
+title: Nurture Tribute
+slug: nurture-tribute
 status: published
-date: 2021-04-13
-excerpt: A few pieces inspired by Porter Robinson's Nurture.
-creator: Nate Butler
+date_created: 2021/04/13
+date_modified:
 ---
 
 A few pieces inspired by Porter Robinson's Nurture.

@@ -1,9 +1,10 @@
 ---
 uuid: 977c1aa9-5e21-41ce-8e39-0c8094866317
 title: Music Stats
+slug: music-stats
 status: published
-date: 2015-08-21
-creator: Nate Butler
+date_created: 2013/11/27
+date_modified:
 ---
 
 ## The Project

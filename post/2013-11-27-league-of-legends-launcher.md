@@ -1,10 +1,10 @@
 ---
 uuid: 2c4ff3bb-17d0-424c-8b30-b8774ebf60ba
 title: League of Legends Launcher
+slug: league-of-legends-launcher
 status: published
-date: 2013-11-27
-excerpt: A quick exploration of a more visual and accessible League launcher.
-creator: Nate Butler
+date_created: 2013/11/27
+date_modified:
 ---
 
 A sketch exploring some small improvements to the League of Legends game launcher.

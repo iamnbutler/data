@@ -3,7 +3,7 @@ uuid: 1b855fc1-7eec-4b35-b711-b035b8458c5d
 title: Vision Design
 slug: vision-design
 status: published
-date_created: 2021/08/03
+date_created: 2020/08/03
 date_modified:
 ---
 
