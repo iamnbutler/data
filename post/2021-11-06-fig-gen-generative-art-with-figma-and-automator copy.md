@@ -1,5 +1,5 @@
 ---
-uuid: cc6f69c4-3040-4db9-8351-88933742565f
+uuid: da23e895-d1eb-46d2-a6a3-298c002a6be1
 title: Generative Art with Figma & Automator
 slug: fig-gen-generative-art-with-figma-and-automator
 status: published

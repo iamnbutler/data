@@ -1,5 +1,5 @@
 ---
-uuid: 9659e0cd-1381-4f89-b39b-dc0ecd2e8e43
+uuid: b7a3cbd6-ec8f-4031-a57f-e74c6e56bead
 title: Facebook.design Device Wallpapers
 slug: facebook-design-device-wallpapers
 status: published
