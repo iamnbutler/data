@@ -27,8 +27,8 @@ Markdown seemed like an excellent place to start. It's easy to write, and we can
 
 ```yaml
 uuid: "1b855fc1-7eec-4b35-b711-b035b8458c5d" # ID / Unique identifier
-title: "post-title" #
-slug: "Post Title" # YYYY-MM-DD-title.md
+title: "Post Title" #
+slug: "post-title" # YYYY-MM-DD-title.md
 status: "draft" # draft | published | archived
 date_created: "03/04/1997" # DD/MM/YYYY
 date_modified: 09/09/1999"" # DD/MM/YYYY
