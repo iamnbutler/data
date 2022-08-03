@@ -5,6 +5,8 @@ slug: getting-your-first-job-as-a-product-designer
 status: published
 date_created: 2021/11/04
 date_modified:
+tags:
+- title: design
 ---
 
 ## The Project

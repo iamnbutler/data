@@ -5,6 +5,10 @@ slug: design-docs-v2
 status: published
 date_created: 2022/05/28
 date_modified:
+tags:
+- title: design
+- title: dev
+- title: work
 ---
 
 Design Docs V2.0 brings a new site build in Next.js, refined content, and a dedicated domain at [designdocs.co](https://www.designdocs.co/).
@@ -24,12 +28,14 @@ There is a small guide on contributions in [`CONTRIBUTING.md`](https://github.co
 I look forward to the future of Design Docs as a resource for students and designers all over.
 
 ## What's Changed
-* Fix "copyright" typo by @maxdeviant in https://github.com/iamnbutler/design-docs/pull/1
-* Next by @iamnbutler in https://github.com/iamnbutler/design-docs/pull/3
-* Bring content up to date with V1, further style prose by @iamnbutler in https://github.com/iamnbutler/design-docs/pull/4
-* Update layout, content by @iamnbutler in https://github.com/iamnbutler/design-docs/pull/5
+
+- Fix "copyright" typo by @maxdeviant in https://github.com/iamnbutler/design-docs/pull/1
+- Next by @iamnbutler in https://github.com/iamnbutler/design-docs/pull/3
+- Bring content up to date with V1, further style prose by @iamnbutler in https://github.com/iamnbutler/design-docs/pull/4
+- Update layout, content by @iamnbutler in https://github.com/iamnbutler/design-docs/pull/5
 
 ## New Contributors
-* @maxdeviant made their first contribution in https://github.com/iamnbutler/design-docs/pull/1
+
+- @maxdeviant made their first contribution in https://github.com/iamnbutler/design-docs/pull/1
 
 **Full Changelog**: https://github.com/iamnbutler/design-docs/compare/v1.0...v2.0.0

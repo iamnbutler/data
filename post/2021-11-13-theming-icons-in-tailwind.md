@@ -5,6 +5,8 @@ slug: theming-icons-in-tailwind
 status: published
 date_created: 2021/11/13
 date_modified:
+tags:
+- title: dev
 ---
 
 ## Using Tailind's fill-current to color svg icons in dark mode.

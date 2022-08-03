@@ -5,6 +5,9 @@ slug: vision-design
 status: published
 date_created: 2020/08/03
 date_modified:
+tags:
+- title: design
+- title: writing
 ---
 
 I've been thinking about this over the past few years. The type of work I like to do and excel attends to fall into a very specific portion of a project, and I found the further along a project got, the less efficient my time was and the less value I was producing. In contrast, the earlier I was into a project, the more efficient and valuable my contributions have been.

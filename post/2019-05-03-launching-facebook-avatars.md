@@ -5,6 +5,9 @@ slug: launching-facebook-avatars
 status: published
 date_created: "2019/05/03"
 date_modified:
+tags:
+- title: design
+- title: work
 ---
 
 Today Facbook launched [a test of Facebook Avatars](https://www.theverge.com/2019/6/3/18650685/facebook-avatar-messenger-newsfeed-bitmoji) publicly! I worked on Avatars for around 2.5 years, so it is exciting to see it finally getting into the wild.

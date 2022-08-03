@@ -5,6 +5,9 @@ slug: design-resources
 status: published
 date_created: "2021/03/08"
 date_modified:
+tags:
+- title: list
+- title: design
 ---
 
 ## Design Critique

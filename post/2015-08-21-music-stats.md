@@ -5,6 +5,9 @@ slug: music-stats
 status: published
 date_created: 2013/11/27
 date_modified:
+tags:
+- title: design
+- title: dev
 ---
 
 ## The Project

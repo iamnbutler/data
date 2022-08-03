@@ -5,6 +5,9 @@ slug: creating-motion-graphics-in-isadora
 status: published
 date_created: 2013/11/05
 date_modified:
+tags:
+- title: design
+- title: art
 ---
 
 ![](https://res.cloudinary.com/yaminateo/video/upload/v1637120269/project/isadora/academy-leader_eryomr.mp4)

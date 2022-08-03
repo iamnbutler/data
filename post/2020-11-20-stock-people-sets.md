@@ -5,6 +5,9 @@ slug: stock-people-sets
 status: published
 date_created: "2020/11/20"
 date_modified:
+tags:
+- title: note
+
 ---
 
 Been working on a lot of decks recently, and one problem I constantly run in to is finding great images and video of a person doing more than one thing for people stories. A few stock sites will have multiple shots in a series, but never many different activities, with a mix of video and photos, with a consistent person or set of people.

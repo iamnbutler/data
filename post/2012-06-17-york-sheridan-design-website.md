@@ -5,6 +5,9 @@ slug: york-sheridan-design-website
 status: published
 date_created: 2012/06/17
 date_modified:
+tags:
+- title: dev
+- title: work
 ---
 
 I developed the website for the York/Sheridan Design program ([design.yorku.ca](https://design.ampd.yorku.ca/)), design by Chris Baldesarra.

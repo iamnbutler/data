@@ -5,9 +5,9 @@ slug: accessing-fields-in-airtable
 status: published
 date_created: 2021/04/13
 date_modified:
+tags:
+- title: dev
 ---
-
-# Accessing fields from the Airtable API
 
 I spent forever trying to figure this out so I thought I'd just post this here in case someone else stumbles across it. If 'record' is your record object (`records.forEach(function (record)`) You can access a field by using `record.fields.YOUR_FIELD_NAME`
 

@@ -5,6 +5,9 @@ slug: design-workshop-posters
 status: published
 date_created: 2015/11/25
 date_modified:
+tags:
+- title: design
+- title: work
 ---
 
 After I wrapped up a period of deep design workshop exploration I wrote up some of what I discovered and created these posters.

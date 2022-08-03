@@ -5,6 +5,9 @@ slug: picking-your-home-office-tech
 status: published
 date_created: 2020/08/03
 date_modified:
+tags:
+- title: list
+- title: writing
 ---
 
 In the first part of this series, we'll take a look at all the hardware you might want when setting up your desk. We'll cover computers, peripherals, VC gear & audio, and more. In the later parts, we'll cover desk setup, ergonomics, and software!

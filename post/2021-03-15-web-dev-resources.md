@@ -5,6 +5,9 @@ slug: web-dev-resources
 status: published
 date_created: "2021/03/15"
 date_modified:
+tags:
+- title: dev
+- title: list
 ---
 
 ## Preface

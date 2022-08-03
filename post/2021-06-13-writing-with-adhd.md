@@ -5,6 +5,8 @@ slug: writing-with-adhd
 status: published
 date_created: 2021/06/13
 date_modified:
+tags:
+- title: writing
 ---
 
 This post is a reflection on Geraint Evans' "[This is how an ADHD

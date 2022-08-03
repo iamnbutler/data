@@ -5,6 +5,8 @@ slug: mixblocks
 status: published
 date_created: 2021/04/10
 date_modified:
+tags:
+- title: design
 ---
 
 ![](https://res.cloudinary.com/yaminateo/image/upload/v1637124653/project/mixblocks/thumbnail-2x1_yyknqu.jpg)

@@ -5,6 +5,9 @@ slug: fig-gen-generative-art-with-figma-and-automator
 status: published
 date_created: 2021/11/06
 date_modified:
+tags:
+- title: dev
+- title: design
 ---
 
 ![Some select screens from my automation explorations](https://res.cloudinary.com/yaminateo/image/upload/v1636435580/project/fig-gen/gen-grid_2x_d5gs3h.png)

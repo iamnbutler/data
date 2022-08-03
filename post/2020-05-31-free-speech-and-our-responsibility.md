@@ -5,6 +5,8 @@ slug: free-speech-and-our-responsibility
 status: published
 date_created: "2020-05-31"
 date_modified:
+tags:
+- title: writing
 ---
 
 Doing nothing isn't Being Bold.
