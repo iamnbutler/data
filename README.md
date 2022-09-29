@@ -9,19 +9,11 @@
   \:\  /:/  /   \::/__/      /:/\:\  \      \::/__/
    \:\/:/  /     \:\  \      \/__\:\  \      \:\  \
     \::/  /       \:\__\          \:\__\      \:\__\
-     \/__/  2.0.0  \/__/           \/__/       \/__/
+     \/__/  3.0.0  \/__/           \/__/       \/__/
 
 ```
 
 A general data source of truth data repository.
-
-## Files on disk
-
-Rather than rely on databases that change and continually shifting data schema, I wanted a place for data like projects, posts, and more to exist simply as flat files.
-
-## Storing data in Markdown
-
-Markdown seemed like an excellent place to start. It's easy to write, and we can easily add extra data on top with front-matter.
 
 ## Front Matter
 
